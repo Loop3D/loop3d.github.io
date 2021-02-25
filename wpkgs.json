@@ -1,0 +1,128 @@
+{
+  "wpkgs": [
+    {
+      "num": 0,
+      "name": "Software Implementation",
+      "lead": "Roy Thomson",
+      "descr": "WP0 provides Loop with mechanisms to manage the Loop workflow, to configure each work package, and to process and transfer data between all work packages.  Additionally, WP0 will create and maintain a graphical user interface for visual representation of the workflow and each work package’s inputs and outputs."
+    },
+    {
+      "num": 1,
+      "name": "Knowledge Management",
+      "lead": "Boyan Brodaric",
+      "descr": "WP1 will provide LOOP the ability to manage geological knowledge about geological units, related structures, processes and events, as well as their relations, as a resource for 3D geological modelling. Semantic Web tools will be used to enable not only loading, querying and retrieval of the knowledge, but also for inferences that can aid verification of 3D geological models. The knowledge manager complements WP2, the data manager, to provide LOOP with combined data and knowledge power for the modelling task."
+    },
+    {
+      "num": 2,
+      "name": "Data Processing",
+      "lead": "Mark Jessell",
+      "descr": "WP2 will provide Loop with the ability to directly access online and offline geoscientific datasets, which it will then process to extract the data required for 3D Geological Modelling. This includes re-projection, upscaling, information extraction and exporting in native formats aimed at a variety of implicit 3D Geological modelling engines."
+    },
+    {
+      "num": 3,
+      "name": "Geological Modelling",
+      "lead": "Lachlan Grose",
+      "descr": "WP3 is an opensource modular geological modelling library for loop. The 3D modelling approaches are time aware structural modelling – where the overprinting relationships observed in outcrops are used to constrain the resulting geometries. The library will include various implicit interpolation algorithms for specific geological structures including folds, faults and intrusions. The 3D modelling code will be able to be used with the outputs of WP2 and will provide input for both WP4 and WP5 modules."
+    },
+    {
+      "num": 4,
+      "name": "Geophysical Modelling",
+      "lead": "Jeremie Giraud",
+      "descr": "WP4 will provide Loop with the possibility to connect geological modelling with geophysical measurements and uncertainty through a multi-purpose geophysical inverse modelling engine. This engine will be capable of running as a standalone or using uncertain geological model, be it from a deterministic aspect or in a probabilistic-oriented fashion. The geophysical engine will be able to use the output of, and feed into, WP3 and WP5."
+    },
+    {
+      "num": 5,
+      "name": "Model Analysis and Uncertainty Reduction",
+      "lead": "Mark Lindsay",
+      "descr": "WP5 will offer loop several tools to improve the characterization and the reduction of prediction uncertainties. They will account for both epistemic and aleatory aspects of uncertainty , related to the lack of knowledge and to errors respectively. In particular, it will provide new methods to explore conceptual uncertainty for a better characterization and to quantify the value of (additional) information to reduce efficiently uncertainty."
+    },
+    {
+      "num": 6,
+      "name": "Results and Knowledge Transfer",
+      "lead": "Robin Armit",
+      "descr": "Work package 6 provides training and knowledge transfer for the entire loop project. This includes articulating why and how the Loop project can be used to improve future implicit 3D modelling workflows across multiple scales."
+    }
+  ],
+  "bios": [
+    {
+      "wpkg": 5,
+      "name": "Mark Lindsay",
+      "email": "mark.lindsay@uwa.edu.au",
+      "org": "The University of Western Australia",
+      "bio": "Mark Lindsay is a Senior Research Fellow at the Centre for Exploration Targeting, University of Western Australia (UWA) and specialises in integrated geoscientific and 3D modelling with an interest in understanding their interrelated uncertainties. He also has research interests that include investigating complex systems and mineralisation. Mark’s contribution to Work Package 5 is working towards a Value-of-Information framework that determines which data at what locations can help us reduce uncertainty in our models in the most cost efficient manner.",
+      "img": "./assets/images/bios/lindsay.jpg"
+    },
+    {
+      "wpkg": 3,
+      "name": "Dr Lachlan Grose",
+      "email": "lachlan.grose@monash.edu",
+      "org": "Monash University",
+      "bio": "Lachlan is a structural geologist with an interest in 3D structural modelling. He is currently working as a research fellow at Monash University for the Loop project. He is the leader of work package 3 and is developing the structural geological modelling library for loop. He completed his PhD “Forward and inverse modelling of geological folds’’ in 2018. His current research interests are in developing new methods for integrating structural geology into 3D geometrical modelling methods.",
+      "img": "./assets/images/bios/grose.jpg"
+    },
+    {
+      "wpkg": 2,
+      "name": "Ranee Joshi",
+      "email": "",
+      "org": "The University of Western Australia",
+      "bio": "Ranee has several years’ experience on GIS data analysis and 3D geologic modeling having worked in mineral exploration.  In 2016, she pursued the EMerald Erasmus Mundus Master in Georesources Engineering where her research project was on the 3D geological and geochemical modeling of the Maverick uranium deposit, Moore Lakes Project, Athabasca Basin, Saskatchewan, Canada under the supervision of Prof. Irvine R. Annesley. She joined the Centre for Exploration Targeting (University of Western Australia) as a PhD candidate to research on Multiscale 3D Geological Modelling of the Yalgoo-Singleton Greenstone Belt under the supervision of Prof. Mark Jessell, Prof. Mark Lindsay, Prof. Nicolas Thebaud and Dr. Tim Ivanic (Geological Survey of Western Australia). This project aims to bridge the gap in integrating and maximizing rich multiscale datasets, such as that available in the Yalgoo-Singleton Greenstone Belt, by defining a methodology to properly subsample geological information across scales. When integrating multiscale datasets, geologic data is upscaled and/or downscaled to a predetermined scale, which contributes uncertainty through the loss of valuable information and heterogeneity, and/or the imputation of data. Furthermore, scaling methods and modelling algorithms are not necessarily consistent with the geological understanding, further contributing uncertainty and increasing the inherent risk on relying on the model to make informed geological assessments. This research will attempt to quantify these uncertainties not only to identify knowledge gaps in the models, but also to describe how uncertainty behaves with respect to scale.",
+      "img": "./assets/images/bios/placeholder.jpg"
+    },
+    {
+      "wpkg": 6,
+      "name": "Dr Robin Armit",
+      "email": "Robin.Armit@monash.edu",
+      "org": "Monash University",
+      "bio": "I hold a PhD in geology and am currently a lecturer in the School of Earth, Atmosphere and Environment at Monash University as well as a director at PGN Geoscience. I have developed academic and minerals industry-related expertise in the integration of structural geology, structural geophysics, 3D structural and inversion modelling, high-temperature geochemistry and radiogenic isotopic datasets utilising relational database skills, GIS and machine learning processes to inform on tectonics processes. My current research interests are in the role of ribbon tectonics in supercontinent assembly and breakup, and implications for minerals systems and have a strong publication record in this field. I am also engaged in research relating to innovations in structural modelling, geophysical inversion modelling and structural geophysics methods for interpreting geology undercover. I lead the training and knowledge transfer work package within the Loop3D project.",
+      "img": "./assets/images/bios/armit.jpg"
+    },
+    {
+      "wpkg": 5,
+      "name": "Guillaume Pirot",
+      "email": "guillaume.pirot@uwa.edu.au",
+      "org": "The University of Western Australia",
+      "bio": "I started my career as an Information Technology consultant for the retail industry. During 7 years, I maturated my passion for research. A friend dragged me to academia in the field of hydrogeology. Since then, I have been developing 3D geological stochastic models characterized by spatially complex heterogeneous property fields. Motivated by questions related to uncertainty and to  subsurface heterogeneity, I became an expert in multiple-point statistics, flow and transport modelling, hydro-geophysical data inversion, Bayesian inversion and optimization techniques. Now, as co-coordinator of work package 5 within the Loop project, I am focusing on uncertainty quantification, propagation and reduction. In a multi-disciplinary integrated modelling framework, uncertainty needs to be considered at every level, from data acquisition to prediction and via joint or hierarchical integration. In interaction with collaborators involved in other work packages and in co-supervising PhD students, I will develop new methods and ensure uncertainty consideration at all levels. ",
+      "img": "./assets/images/bios/guillaume.jpg"
+    },
+    {
+      "wpkg": 4,
+      "name": "Jeremie Giraud",
+      "email": "jeremie.giraud@uwa.edu.au",
+      "org": "The University of Western Australia",
+      "bio": "Jérémie’s training and studies in geophysics led him to France, Canada, the USA and Germany to study and work on various geophysical techniques. He spent a few years in Schlumberger where he learned about joint inversion and worked on the development and application of methodologies for integrated reservoir modelling (based in Milan, Italy). Jérémie then started his PhD in 2015 at the Centre for Exploration Targeting, University of Western Australia, which he completed in 2018. His project focused on the integration of geological modelling and petrophysical information in geophysical inversion and to estimate uncertainty. This is a research avenue that remains at the core of his research interest, and which he now furthers as part of the Loop and MinEx CRC consortia.In the Loop consortium, Jérémie is leading WP4: “Work Package 4 - Geophysical Integration”. In addition to other Loop work packages, he works closely with Dr. Vitaliy Ogarko around the development of the source-code of the inversion platform Tomofast. He also collaborates externally to work on case studies, on the application of deep learning techniques to integrated modelling, and on the recovery of geological quantities from inversion results. Jeremie is involved in the supervision of PhD students contributing to the advancement of WP4-related themes and the Loop platform: Mahtab Rashidifard (start Aug. 2019), Nuwan Suriyaarachchi (start Oct. 2019), and Marina Jeronimo Zarate (to start Apr. 2020). Last, Jeremie participates in the recruitment and supervision of interns and Honours students.",
+      "img": "./assets/images/bios/placeholder.jpg"
+    },
+    {
+      "wpkg": 3,
+      "name": "Rabii Chaarani",
+      "email": "Rabii.Chaarani@monash.edu ",
+      "org": "Monash University",
+      "bio": "My thesis project is focused on the assessment of the value of structural data of poly-deformed terranes and will address the issue of data representativity and data sparsity/density. The objective of my PhD thesis is to test the sensitivity of the Loop Structural Modelling Engine to data distributions during the modelling of polydeformed terranes. To do this, I will develop a data sampling workflow based upon field-collected data over the Eldee structure in Broken Hill, New South Wales, Australia.",
+      "img": "./assets/images/bios/rabii.jpg"
+    },
+    {
+      "wpkg": 2,
+      "name": "Rebecca Montsion",
+      "email": "",
+      "org": "The University of Western Australia",
+      "bio": "My thesis project is focused on the assessment of the value of structural data of poly-deformed terranes and will address the issue of data representativity and data sparsity/density. The objective of my PhD thesis is to test the sensitivity of the Loop Structural Modelling Engine to data distributions during the modelling of polydeformed terranes. To do this, I will develop a data sampling workflow based upon field-collected data over the Eldee structure in Broken Hill, New South Wales, Australia.",
+      "img": "./assets/images/bios/montision.jpg"
+    },
+    {
+      "wpkg": 5,
+      "name": "Rebecca Montsion",
+      "email": "",
+      "org": "The University of Western Australia",
+      "bio": "My thesis project is focused on the assessment of the value of structural data of poly-deformed terranes and will address the issue of data representativity and data sparsity/density. The objective of my PhD thesis is to test the sensitivity of the Loop Structural Modelling Engine to data distributions during the modelling of polydeformed terranes. To do this, I will develop a data sampling workflow based upon field-collected data over the Eldee structure in Broken Hill, New South Wales, Australia.",
+      "img": "./assets/images/bios/montision.jpg"
+    },
+    {
+      "wpkg": 1,
+      "name": "Boyan Brodaric",
+      "email": "boyan.brodaric@canada.ca",
+      "org": "Geological Survey of Canada",
+      "bio": "",
+      "img": "./assets/images/bios/placeholder.jpg"
+    }
+  ]
+}
