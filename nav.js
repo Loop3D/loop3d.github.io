@@ -5,9 +5,10 @@ let navbar = (function () {
 		let html = [
 			'<nav role="navigation" class="nav-menu w-nav-menu">',
 			'<a href="index.html" aria-current="page" class="nav-link w-nav-link %">Home</a>',
-			'<a href="downloads.html" class="nav-link w-nav-link %">DownloadS</a>',
-			'<a href="work-packages.html" class="nav-link w-nav-link %">work packages</a>',
-			'<a href="work-packages.html" class="nav-link w-nav-link %">Blog</a>',
+			'<a href="downloads.html" class="nav-link w-nav-link %">Downloads</a>',
+			'<a href="work-packages.html" class="nav-link w-nav-link %">Work Packages</a>',
+			'<a href="presentations.html" class="nav-link w-nav-link %">Presentations</a>',
+			'<a href="blog.html" class="nav-link w-nav-link %">Blog</a>',
 			'<a href="contact.html" class="nav-link w-nav-link %">Contact</a>',
 			'<a href="#" class="close-x w-hidden-main w-hidden-medium w-hidden-small">×</a>',
 			"</nav>",

@@ -1,0 +1,11 @@
+{
+	"posts": [
+		{
+			"title": "Mid Loop Mileston (Bussleton, WA)",
+			"author": "Yohan de Rose",
+			"thumbnail": "./blog_posts/bussleton/thompson.jpg",
+			"content_md": "./blog_posts/bussleton/bussleton.md",
+			"content_html": ""
+		}
+	]
+}
