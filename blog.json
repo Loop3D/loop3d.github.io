@@ -1,11 +1,12 @@
 {
 	"posts": [
 		{
-			"title": "Mid Loop Mileston (Bussleton, WA)",
+			"title": "Mid Loop Mileston (Busselton, WA)",
+			"desc": "A collection of photos from the Loop midway milestone in Busselton",
 			"author": "Yohan de Rose",
 			"thumbnail": "./blog_posts/bussleton/thompson.jpg",
-			"content_md": "./blog_posts/bussleton/bussleton.md",
-			"content_html": ""
+			"content_md": "./blog_posts/busselton/busselton.md",
+			"content_html": "./blog_posts/busselton/busselton.html"
 		}
 	]
 }

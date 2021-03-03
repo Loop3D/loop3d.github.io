@@ -6,23 +6,23 @@ let workPackages = (function () {
 	const overlay = $("#overlay");
 
 	function openModal(modal) {
-		console.log("openModal");
 		if (modal == null) return;
 		modal.classList.add("active");
 		overlay.classList.add("active");
 	}
 
 	function closeModal(modal) {
-		console.log("closeModal");
 		if (modal == null) return;
 		modal.classList.remove("active");
 		overlay.classList.remove("active");
 	}
 
-	makePkg = (title, author, thumbnail, content) => {
+	makePkg = (title, desc, author, thumbnail, content) => {
 		return `
 					<div
 						id="w-node-_25b018ff-bb9d-73f0-90a0-85096636098a-b3e0a829"
+						style="cursor: pointer"
+						class="blog-card"
 					>
 						<div class="cards-image-mask">
 							<img
@@ -31,11 +31,12 @@ let workPackages = (function () {
 								class="cards-image"
 							/>
 						</div>
-						<h3>${title}</h3>
+						<h3 class="card-title">${title}</h3>
+						<div class="blog_body" style="display: none;"> 
+						
+						</div>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing
-							elit. Suspendisse varius enim in eros elementum
-							tristique.
+							${desc}
 						</p>
 					</div>
 		`;
@@ -44,12 +45,20 @@ let workPackages = (function () {
 	displayPkgs = (pkgs) => {
 		pkgs.forEach((post) => {
 			let title = post.title;
+			let desc = post.desc;
 			let author = post.author;
 			let thumbnail = post.thumbnail;
-			let content = post.content_md;
+			let mdfile = post.content_md;
+			let htmlfile = post.content_html;
+
+			//console.log(htmlfile);
+			//$.get(htmlfile, (data) => {
+			//console.log("DATA:");
+			//console.log(data);
+			//});
 
 			$(".cards-grid-container").append(
-				makePkg(title, author, thumbnail, content)
+				makePkg(title, desc, author, thumbnail, htmlfile)
 			);
 		});
 	};
@@ -96,7 +105,16 @@ let workPackages = (function () {
 				closeModal(modal);
 			});
 		});
-		console.log("here");
+
+		$(".blog-card").on("click", (event) => {
+			// TODO: Get modal to display blogpost
+			let title = $(event.currentTarget).find("h3")[0].innerHTML;
+			let body = $(event.currentTarget).find("p")[0].innerHTML;
+			console.log(title);
+			$(".title")[0].innerHTML = title;
+			$(".modal-body")[0].innerHTML = body;
+			$("#open-button").click();
+		});
 	};
 
 	return pub;
