@@ -1,6 +1,22 @@
 let downloads = (function () {
 	pub = {};
 
+	makePub = (title, authors, link) => {
+		return `<div class="w-container">
+				  <div class="w-richtext">
+					<br>
+					<h3>${title}</h3>
+					<blockquote>${authors}
+					<a download href="${link}">
+						Download
+					</a>
+					</blockquote>
+
+				  </div>
+				</div>
+		`;
+	};
+
 	makeHTML = (title, desc, img, linux, windows) => {
 		return `
 			<div class="w-container">
@@ -60,7 +76,6 @@ let downloads = (function () {
 	};
 
 	pub.setup = () => {
-		console.log("dwlsds");
 		$.ajax({
 			type: "GET",
 			url: "downloads.json",
@@ -72,18 +87,29 @@ let downloads = (function () {
 
 			success: function (data) {
 				let leaderSection = $("#main-area");
-				console.log(data);
-				data.forEach((software) => {
+				let pubsSection = $("#other-area");
+				software = data.software;
+				publications = data.publications;
+
+				software.forEach((item) => {
 					leaderSection.append(
 						makeHTML(
-							software.title,
-							software.desc,
-							software.img,
-							software.linux,
-							software.windows
+							item.title,
+							item.desc,
+							item.img,
+							item.linux,
+							item.windows
 						)
 					);
 				});
+
+				publications.forEach((item) => {
+					pubsSection.append(
+						makePub(item.title, item.authors, item.link)
+					);
+				});
+
+				console.log(publications);
 			},
 		});
 	};

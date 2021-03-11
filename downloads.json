@@ -1,23 +1,38 @@
-[
-	{
-		"title": "The Loop Interface",
-		"desc": "lorem",
-		"img": "images/loop-partners.png",
-		"linux": "",
-		"windows": ""
-	},
-	{
-		"title": "Map2Loop",
-		"desc": "lorem",
-		"img": "images/loop-partners.png",
-		"linux": "",
-		"windows": ""
-	},
-	{
-		"title": "Loop Structural",
-		"desc": "lorem",
-		"img": "images/loop-partners.png",
-		"linux": "",
-		"windows": ""
-	}
-]
+{
+	"software": [
+		{
+			"title": "The Loop Interface",
+			"desc": "lorem",
+			"img": "images/loop-partners.png",
+			"linux": "",
+			"windows": ""
+		},
+		{
+			"title": "Map2Loop",
+			"desc": "lorem",
+			"img": "images/loop-partners.png",
+			"linux": "",
+			"windows": ""
+		},
+		{
+			"title": "Loop Structural",
+			"desc": "lorem",
+			"img": "images/loop-partners.png",
+			"linux": "",
+			"windows": ""
+		}
+	],
+
+	"publications": [
+		{
+			"title": "Towards plausible lithological classification from geophysical inversion: honouring geological principles in subsurface imaging",
+			"authors": "Jérémie Giraud et al.",
+			"link": "./publications/lith-class.pdf"
+		},
+		{
+			"title": "Towards plausible lithological classification from geophysical inversion: honouring geological principles in subsurface imaging",
+			"authors": "Jérémie Giraud et al.",
+			"link": "./publications/lith-class.pdf"
+		}
+	]
+}
