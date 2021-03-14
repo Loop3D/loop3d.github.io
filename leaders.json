@@ -59,10 +59,4 @@
 		"bio": "Dr. Eric de Kemp is a 3D Interpretation Specialist with the Geological Survey of Canada (GSC) in Ottawa, and an Adjunct Professor at the Department of Earth and Environmental Sciences at University of Ottawa. His research focuses on 3D visualization and modelling of bedrock geological structures. His expertise in 3D geological analysis is coupled with a strong background in the integration of geoscience data using Geographic Information Systems (GIS) and remote sensing technologies.  He specializes in Precambrian field-based 3D studies that combine  stratigraphic, structural, and geochronologic analysis in tectonically complex regions of the Canadian Shield. His current research focuses on optimization of methods for improving regional-scale 3D geological interpretations and  methods with the aim of developing sub-surface models for Canada-3D a national scale 3D geological and geophysical integration project.",
 		"img": "./images/bios/eric.jpg"
 	},
-	{
-		"name": "Yohan de Rose",
-		"title": "Slacker - as in he uses slack",
-		"bio": "Loves New Zealand",
-		"img": "./images/bios/eric.jpg"
-	}
 ]
