@@ -1,6 +1,11 @@
 {
 	"presentations": [
 		{
+			"title": "Loop European Workshops - March 15/16",
+			"presenter": "Laurent Ailleres, Mark Jessell, Ranee Joshi, Lachlan Grose, Fernanda Alvarado, Rabii Chaarani, Roy Thomson",
+			"video_url": "https://drive.google.com/file/d/1eyT5ANvi-zppsM3KuN44nclHucvR9oQO/view?usp=sharing"
+		},
+		{
 			"title": "Geoscience Australia Public Talk",
 			"presenter": "Laurent Ailleres",
 			"video_url": "https://www.youtube.com/embed/riPRIBTczwM?autoplay=1&origin=http://example.com"
