@@ -2,18 +2,37 @@ let workPackages = (function () {
 	pub = {};
 
 	makePkg = (title, presenter, url) => {
-		return `<div class="w-container">
+		var videoSection = "";
+		if (url.includes("youtube")) {
+			videoSection = `<div class="w-container">
 				  <div class="w-richtext">
 					<h2>${title}</h2>
 					<h3>${presenter}</h3>
 					<blockquote>
-						   <iframe id="ytplayer" type="text/html" width="800vw" height="360"
+						   <iframe id="ytplayer" type="text/html" width="600px" height="360"
 						   src="${url}"
 						   frameborder="0" allowfullscreen></iframe>
+
 					</blockquote>
 				  </div>
 				</div>
 		`;
+		} else {
+			videoSection = `<div class="w-container">
+				  <div class="w-richtext">
+					<h2>${title}</h2>
+					<h3>${presenter}</h3>
+					<blockquote>
+
+					<video tabindex="0" controls="true" x-webkit-airplay="allow"  preload="none" id="ytplayer" style="max-width: 1024px; max-height: 1024px; width: 600px; height: 360px;">
+												<source src="${url}" type="">
+																		</video>
+					</blockquote>
+				  </div>
+				</div>
+		`;
+		}
+		return videoSection;
 	};
 
 	displayPkgs = (pkgs) => {
