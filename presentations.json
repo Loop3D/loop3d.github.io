@@ -1,10 +1,10 @@
 {
 	"presentations": [
-		{
-			"title": "Workshop #2 - map2loop, dh2loop & LoopStructural",
-			"presenter": "Laurent Ailleres, Mark Jessell, Ranee Joshi, Lachlan Grose, Fernanda Alvarado, Rabii Chaarani, Roy Thomson",
-			"video_url": "https://cloudstor.aarnet.edu.au/plus/s/0a0HCvYbb8XVJnn"
-		},
+		// {
+		// 	"title": "Workshop #2 - map2loop, dh2loop & LoopStructural",
+		// 	"presenter": "Laurent Ailleres, Mark Jessell, Ranee Joshi, Lachlan Grose, Fernanda Alvarado, Rabii Chaarani, Roy Thomson",
+		// 	"video_url": "https://cloudstor.aarnet.edu.au/plus/s/0a0HCvYbb8XVJnn"
+		// },
 		{
 			"title": "Geoscience Australia Public Talk",
 			"presenter": "Laurent Ailleres",
