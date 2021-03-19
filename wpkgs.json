@@ -1,46 +1,52 @@
 {
   "wpkgs": [
     {
+      "num": 0 ,
+      "name": "Lead-Chief Investigator",
+      "lead": "Laurent Ailleres",
+      "descr": ""
+    },
+    {
       "num": 0,
       "name": "Software Implementation",
       "lead": "Roy Thomson",
-      "descr": "WP0 provides Loop with mechanisms to manage the Loop workflow, to configure each work package, and to process and transfer data between all work packages.  Additionally, WP0 will create and maintain a graphical user interface for visual representation of the workflow and each work package’s inputs and outputs."
+      "descr": "WP0 provides Loop with mechanisms to manage the Loop workflow, to configure each work package, and to process and transfer data between all work packages. Additionally, WP0 will create and maintain a graphical user interface for visual representation of the workflow and each work package’s inputs and outputs."
     },
     {
       "num": 1,
       "name": "Knowledge Management",
       "lead": "Boyan Brodaric",
-      "descr": "WP1 will provide LOOP the ability to manage geological knowledge about geological units, related structures, processes and events, as well as their relations, as a resource for 3D geological modelling. Semantic Web tools will be used to enable not only loading, querying and retrieval of the knowledge, but also for inferences that can aid verification of 3D geological models. The knowledge manager complements WP2, the data manager, to provide LOOP with combined data and knowledge power for the modelling task."
+      "descr": "WP1 provides LOOP the ability to manage geological knowledge about geological units, related structures, processes and events, as well as their relations, as a resource for 3D geological modelling. Semantic Web tools are used to enable not only loading, querying and retrieval of the knowledge, but also for inferences that can aid verification of 3D geological models. The knowledge manager complements WP2, the data manager, to provide LOOP with combined data and knowledge power for the modelling task."
     },
     {
       "num": 2,
       "name": "Data Processing",
       "lead": "Mark Jessell",
-      "descr": "WP2 will provide Loop with the ability to directly access online and offline geoscientific datasets, which it will then process to extract the data required for 3D Geological Modelling. This includes re-projection, upscaling, information extraction and exporting in native formats aimed at a variety of implicit 3D Geological modelling engines."
+      "descr": "WP2 provides Loop with the ability to directly access online and offline geoscientific datasets, which it then processes to extract the data required for 3D Geological Modelling. This includes re-projection, upscaling, information extraction and exporting in native formats aimed at a variety of implicit 3D Geological modelling engines."
     },
     {
       "num": 3,
       "name": "Geological Modelling",
       "lead": "Lachlan Grose",
-      "descr": "WP3 is an opensource modular geological modelling library for loop. The 3D modelling approaches are time aware structural modelling – where the overprinting relationships observed in outcrops are used to constrain the resulting geometries. The library will include various implicit interpolation algorithms for specific geological structures including folds, faults and intrusions. The 3D modelling code will be able to be used with the outputs of WP2 and will provide input for both WP4 and WP5 modules."
+      "descr": "WP3 is an opensource modular geological modelling library for loop. The 3D modelling approach is time aware structural modelling – where the overprinting relationships observed in the geology are used to constrain the resulting geometries. The library includes various implicit interpolation algorithms for specific geological structures including folds, faults and intrusions. The 3D modelling code is able to be used with the outputs of WP2 and provides input for both WP4 and WP5 modules."
     },
     {
       "num": 4,
       "name": "Geophysical Modelling",
       "lead": "Jeremie Giraud",
-      "descr": "WP4 will provide Loop with the possibility to connect geological modelling with geophysical measurements and uncertainty through a multi-purpose geophysical inverse modelling engine. This engine will be capable of running as a standalone or using uncertain geological model, be it from a deterministic aspect or in a probabilistic-oriented fashion. The geophysical engine will be able to use the output of, and feed into, WP3 and WP5."
+      "descr": "WP4 provides Loop with the possibility to connect geological modelling with geophysical measurements and uncertainty through a multi-purpose geophysical inverse modelling engine. This engine is capable of running as a standalone or using uncertain geological model, be it from a deterministic aspect or in a probabilistic-oriented fashion. The geophysical engine is able to use the output of, and feed into, WP3 and WP5."
     },
     {
       "num": 5,
       "name": "Model Analysis and Uncertainty Reduction",
-      "lead": "Mark Lindsay",
-      "descr": "WP5 will offer loop several tools to improve the characterization and the reduction of prediction uncertainties. They will account for both epistemic and aleatory aspects of uncertainty , related to the lack of knowledge and to errors respectively. In particular, it will provide new methods to explore conceptual uncertainty for a better characterization and to quantify the value of (additional) information to reduce efficiently uncertainty."
+      "lead": "Mark Lindsay & Guillaume Pirot",
+      "descr": "WP5 offers loop several tools to improve the characterization and the reduction of prediction uncertainties. They account for both epistemic and aleatory aspects of uncertainty , related to the lack of knowledge and to errors respectively. In particular, it will provide new methods to explore conceptual uncertainty for a better characterization and to quantify the value of (additional) information to reduce efficiently uncertainty."
     },
     {
       "num": 6,
       "name": "Results and Knowledge Transfer",
       "lead": "Robin Armit",
-      "descr": "Work package 6 provides training and knowledge transfer for the entire loop project. This includes articulating why and how the Loop project can be used to improve future implicit 3D modelling workflows across multiple scales."
+      "descr": "WP6 provides training and knowledge transfer for the entire loop project. This includes articulating why and how the Loop project can be used to improve future implicit 3D modelling workflows across multiple scales, managing Loopinars and organising hands-on training workshops."
     }
   ],
   "bios": [
