@@ -30,9 +30,19 @@
 			"link": "./publications/lith-class.pdf"
 		},
 		{
-			"title": "something else",
-			"authors": "someone else",
-			"link": "./publications/lith-class.pdf"
+			"title": "dh2loop 1.0: an open-source python library for automated processing and classification of geological logs",
+			"authors": "Ranee Joshi et al.",
+			"link": "https://gmd.copernicus.org/preprints/gmd-2020-391/"
+		}
+		{
+			"title": "map2loop 1.0: Automated geological map deconstruction for 3D model construction",
+			"authors": "Mark Jessell et al.",
+			"link": "https://gmd.copernicus.org/preprints/gmd-2020-400/"
+		}
+		{
+			"title": "3D geological structure inversion from Noddy-generated magnetic data using deep learning methods",
+			"authors": "Jiateng Guo et al.",
+			"link": "https://www.sciencedirect.com/science/article/pii/S0098300421000169"
 		}
 	]
 }
