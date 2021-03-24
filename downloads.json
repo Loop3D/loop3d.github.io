@@ -1,22 +1,22 @@
 {
 	"software": [
 		{
-			"title": "The Loop Interface - Ignore or modify the python code! Fun at your own risk",
-			"desc": "",
+			"title": "The Loop Interface",
+			"desc": "Ignore or modify the python code! Fun at your own risk",
 			"img": "./images/loop-partners.png",
 			"linux": "",
 			"windows": ""
 		},
 		{
-			"title": "Map2Loop - Automatic map analysis for geological history and data extraction",
-			"desc": "",
+			"title": "Map2Loop",
+			"desc": "Automatic map analysis for geological history and data extraction",
 			"img": "./images/map2loop.png",
 			"linux": "",
 			"windows": ""
 		},
 		{
-			"title": "LoopStructural - Structurally ruled 3D geological modelling engine",
-			"desc": "",
+			"title": "LoopStructural",
+			"desc": "Structurally ruled 3D geological modelling engine",
 			"img": "./images/loopstructural.png",
 			"linux": "",
 			"windows": ""

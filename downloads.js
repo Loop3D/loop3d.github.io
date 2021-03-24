@@ -61,12 +61,6 @@ let downloads = (function () {
 							loading="lazy"
 							id="w-node-_6671e186-3c17-77ae-892f-d82bb0a81b90-a6e0a827"
 							sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 940px"
-							srcset="
-								images/loop-partners-p-500.png   500w,
-								images/loop-partners-p-800.png   800w,
-								images/loop-partners-p-1080.png 1080w,
-								images/loop-partners.png        1274w
-							"
 							alt=""
 						/>
 					</div>
