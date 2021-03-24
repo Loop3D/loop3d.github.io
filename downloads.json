@@ -3,23 +3,23 @@
 		{
 			"title": "The Loop Interface",
 			"desc": "Ignore or modify the python code! Fun at your own risk",
-			"img": "./images/loop-partners.png",
-			"linux": "",
-			"windows": ""
+			"img": "./images/interface.png",
+			"linux": "https://github.com/Loop3D/Loop3D",
+			"windows": "https://cloudstor.aarnet.edu.au/plus/s/Br5TlDnhMzVuAhS/download"
 		},
 		{
 			"title": "Map2Loop",
 			"desc": "Automatic map analysis for geological history and data extraction",
 			"img": "./images/map2loop.png",
-			"linux": "",
-			"windows": ""
+			"linux": "https://github.com/Loop3D/map2loop-2",
+			"windows": "https://github.com/Loop3D/map2loop-2"
 		},
 		{
 			"title": "LoopStructural",
 			"desc": "Structurally ruled 3D geological modelling engine",
 			"img": "./images/loopstructural.png",
-			"linux": "",
-			"windows": ""
+			"linux": "https://github.com/Loop3D/LoopStructural",
+			"windows": "https://github.com/Loop3D/LoopStructural"
 		}
 	],
 

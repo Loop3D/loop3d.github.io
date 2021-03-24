@@ -41,13 +41,13 @@ let downloads = (function () {
 							>
 								<a
 									id="w-node-c74467e5-7e49-12fc-e821-696cdf3dd9a1-a6e0a827"
-									href="#"
+									href="${linux}"
 									class="button-2 w-button"
 									>x64 Linux</a
 								>
 								<a
 									id="w-node-_1312a822-9347-be65-d59f-c9bd47a9336f-a6e0a827"
-									href="#"
+									href="${windows}"
 									class="button-3 w-button"
 									>x64 Windows</a
 								>
