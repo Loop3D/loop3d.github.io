@@ -41,13 +41,13 @@ let downloads = (function () {
 							>
 								<a
 									id="w-node-c74467e5-7e49-12fc-e821-696cdf3dd9a1-a6e0a827"
-									href="#"
+									href="${linux}"
 									class="button-2 w-button"
 									>x64 Linux</a
 								>
 								<a
 									id="w-node-_1312a822-9347-be65-d59f-c9bd47a9336f-a6e0a827"
-									href="#"
+									href="${windows}"
 									class="button-3 w-button"
 									>x64 Windows</a
 								>
@@ -61,12 +61,6 @@ let downloads = (function () {
 							loading="lazy"
 							id="w-node-_6671e186-3c17-77ae-892f-d82bb0a81b90-a6e0a827"
 							sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 940px"
-							srcset="
-								images/loop-partners-p-500.png   500w,
-								images/loop-partners-p-800.png   800w,
-								images/loop-partners-p-1080.png 1080w,
-								images/loop-partners.png        1274w
-							"
 							alt=""
 						/>
 					</div>

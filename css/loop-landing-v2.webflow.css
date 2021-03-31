@@ -101,9 +101,8 @@ img {
 		left top,
 		left bottom,
 		from(#4d565d),
-		to(#fff)
+		to(#f7f7f7)
 	);
-	background-image: linear-gradient(180deg, #4d565d, #f7f7f7);
 }
 
 .navbar {
@@ -308,16 +307,16 @@ img {
 }
 
 .thumbnail-text {
-	position: relative;
+	text-align: left;
 	overflow: hidden;
-	height: 140px;
+	height: 200;
 	padding: 13px;
 	border-top: 1px solid #e5e5e5;
 }
 
 .thumbnail-date {
 	display: inline-block;
-	float: right;
+	float: block;
 	font-family: Oxygen, sans-serif;
 	color: #999;
 	font-size: 12px;
@@ -349,7 +348,7 @@ img {
 
 .preview-text {
 	overflow: hidden;
-	height: inherit;
+	height: 200px;
 	font-family: Oxygen, sans-serif;
 	color: #7a7a7a;
 	font-size: 13px;
