@@ -2,7 +2,7 @@
 	"software": [
 		{
 			"title": "The Loop Interface",
-			"desc": "Ignore or modify the python code! Fun at your own risk",
+			"desc": "Ignore or modify the python code! Fun at your own risk - Linux version is code not a release",
 			"img": "./images/interface.png",
 			"linux": "https://github.com/Loop3D/Loop3D",
 			"windows": "https://cloudstor.aarnet.edu.au/plus/s/Br5TlDnhMzVuAhS/download"
