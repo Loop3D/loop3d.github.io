@@ -32,14 +32,49 @@
 
 	"publications": [
 		{
-			"title": "Towards plausible lithological classification from geophysical inversion: honouring geological principles in subsurface imaging",
-			"authors": "Jérémie Giraud et al.",
-			"link": "./publications/lith-class.pdf"
+			"title": "2021 - <a href=./publications/Loop_QR9_Feb2021.pdf>OpenAccess</a> - Loop - Quarterly Report #9 Feb 2021",
+			"authors": "Ailleres, L., Thomson, R., Brodaric, B., Jessell, M., Grose, L., Giraud, J., Pirot, G., Lindsay, M., Armit, R. and our awesome entire Loop team",
+			"link": "./publications/Loop_QR9_Feb2021.pdf"
 		},
 		{
-			"title": "something else",
-			"authors": "someone else",
-			"link": "./publications/lith-class.pdf"
+			"title": "2021 - <a href=https://doi.org/10.5194/gmd-2021-14>OpenAccess</a> - Structural, petrophysical and geological constraints in potential field inversion using the Tomofast-x v1.0 open-source code. Geosci. Model Dev. Discuss., Special issue | The Loop 3D stochastic geological modelling platform – development and applications (Coord. Laurent Ailleres)",
+			"authors": "Giraud, J., Ogarko, V., Martin, R., Jessell, M., Lindsay, M.",
+			"link": "https://doi.org/10.5194/gmd-2021-14"
+		},
+		{
+			"title": "2021 - 3D Geological Structure Inversion from Noddy-Generated Magnetic Data Using Deep Learning Methods. Computers & Geosciences (149)",
+			"authors": "Guo, J., Li, Y., Jessell, M.,  Giraud, J., Li, C., Wu, L., Li, F., Liu, S.",
+			"link": "https://doi.org/10.1016/j.cageo.2021.104701"
+		},
+		{
+			"title": "2021 - <a href=https://doi.org/10.5194/gmd-2020-400>OpenAccess</a> - Automated geological map deconstruction for 3D model construction. Geosci. Model Dev. Discuss., Special issue | The Loop 3D stochastic geological modelling platform – development and applications (Coord. Laurent Ailleres)",
+			"authors": "Jessell, M., Ogarko, V., Lindsay, M., Joshi, R., Piechocka, A., Grose, L., de la Varga, M., Ailleres, L., Pirot, G.",
+			"link": "https://doi.org/10.5194/gmd-2020-400"
+		},
+		{
+			"title": "2021 - <a href=https://doi.org/10.5194/gmd-2020-391>OpenAccess</a> - dh2loop 1.0: an open-source python library for automated processing and classification of geological logs. Geosci. Model Dev. Discuss., Special issue | The Loop 3D stochastic geological modelling platform – development and applications (Coord. Laurent Ailleres)",
+			"authors": "Joshi, R., Madaiah, K., Jessell, M., Lindsay, M., Pirot, G.Joshi, R., Madaiah, K., Jessell, M., Lindsay, M., Pirot, G.",
+			"link": "https://doi.org/10.5194/gmd-2020-391"
+		},
+		{
+			"title": "2021 - <a href=https://doi.org/10.1190/geo2019-0633.1>OpenAccess</a> - Disjoint intervals bound constraints using the alternating direction method of multipliers (ADMM) for geologically constrained inversions: application to gravity data. Geophysics, 86: G1-G11",
+			"authors": "Ogarko, V., Giraud, J., Martin, R., Jessell, M.",
+			"link": "https://doi.org/10.1190/geo2019-0633.1"
+		},
+		{
+			"title": "2020 - <a href=https://doi.org/10.5194/gmd-2020-336>OpenAccess</a> - LoopStructural 1.0 time aware geological modelling. Geosci. Model Dev. Discuss., Special issue | The Loop 3D stochastic geological modelling platform – development and applications (Coord. Laurent Ailleres)",
+			"authors": "Grose, L., Ailleres, L., Laurent, G., Jessell, M.",
+			"link": "https://doi.org/10.5194/gmd-2020-336"
+		},
+		{
+			"title": "2020 - <a href=https://doi.org/10.5194/se-11-419-2020>OpenAccess</a> - Towards plausible lithological classification from geophysical inversion: honouring geological principles in subsurface imaging, Solid Earth, 11, 419-436",
+			"authors": "Giraud, J., Lindsay, M.,  Jessell,M., Ogarko, V.",
+			"link": "https://doi.org/10.5194/se-11-419-2020"
+		},
+		{
+			"title": "2020 - Three-dimensional gravity anomaly inversion in the Pyrenees using compressional seismic velocity model as structural similarity constraints. Geophysical Journal International, ggaa414",
+			"authors": "Martin, R., Giraud, J., Ogarko, V., Beller, S., Gegout, P., Jessell, M.",
+			"link": "https://doi.org/10.1093/gji/ggaa414"
 		}
 	]
 }
