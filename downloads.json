@@ -20,6 +20,13 @@
 			"img": "./images/loopstructural.png",
 			"linux": "https://github.com/Loop3D/LoopStructural",
 			"windows": "https://github.com/Loop3D/LoopStructural"
+		},
+		{
+			"title": "GeoSwarm agents",
+			"desc": "Agents based field interpolator",
+			"img": "./images/agents.png",
+			"linux": "https://github.com/Loop3D/GeoSwarm",
+			"windows": "https://github.com/Loop3D/GeoSwarm"
 		}
 	],
 
