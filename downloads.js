@@ -8,7 +8,7 @@ let downloads = (function () {
 					<h3>${title}</h3>
 					<blockquote>${authors}
 					<a download href="${link}">
-						Download
+						Download - DOI
 					</a>
 					</blockquote>
 
