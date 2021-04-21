@@ -1,6 +1,11 @@
 {
 	"presentations": [
 		{
+			"title": "Apr 2021 - Tranform 2021 / Tutorial: Automated 3D Modelling will Loop, from maps to 3D models",
+			"presenter": "Mark Jessell (UWA) & Lachlan Grose (Monash University)",
+			"video_url": "https://www.youtube.com/embed/q8I9uDzZPCQ"
+		},
+		{
 			"title": "Mar 2021 - MinEx CRC / Loop workshop on extracting lithology and stratigraphy from legacy drill hole data",
 			"presenter": "Mark Jessell (UWA) & KK (DataCode), Ernst Schetselaar (GSC), Ranee Joshi (UWA), Kavitha Madiah (UWA), Catherine Park (GSNSW), Rian Dutch (GSSA), Rachel Heaven (BGS), Boyan Broderic (GSC), Mark Jessell (UWA)",
 			"video_url": "https://www.youtube.com/embed/XD2SxjEYr5I"
