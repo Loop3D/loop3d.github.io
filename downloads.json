@@ -37,6 +37,11 @@
 			"link": "./publications/Loop_QR9_Feb2021.pdf"
 		},
 		{
+			"title": "2021 - <a href=https://doi.org/10.5194/gmd-2021-66>OpenAccess</a> - Spatial Agents for Geological Surface Modelling. Geosci. Model Dev. Discuss., Special issue | The Loop 3D stochastic geological modelling platform – development and applications (Coord. Laurent Ailleres)",
+			"authors": "de Kemp, E.Q.",
+			"link": "https://doi.org/10.5194/gmd-2021-66"
+		},
+		{
 			"title": "2021 - <a href=https://doi.org/10.5194/gmd-2021-14>OpenAccess</a> - Structural, petrophysical and geological constraints in potential field inversion using the Tomofast-x v1.0 open-source code. Geosci. Model Dev. Discuss., Special issue | The Loop 3D stochastic geological modelling platform – development and applications (Coord. Laurent Ailleres)",
 			"authors": "Giraud, J., Ogarko, V., Martin, R., Jessell, M., Lindsay, M.",
 			"link": "https://doi.org/10.5194/gmd-2021-14"
