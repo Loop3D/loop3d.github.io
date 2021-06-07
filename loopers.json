@@ -3,26 +3,26 @@
     {
       "img": "./images/bios/alvarado.jpg",
       "name": "Fernanda Alvarado-Neves - PhD candidate, Monash University",
-      "descr": "Geologist and MSc in Geology from the University of Chile, and currently a PhD candidate at Monash University.  Fernanda’s master thesis focused on understanding the tectonic evolution of the Western Principal Andes Cordillera in Central Chile during the Cenozoic era. After completing her masters, she worked a few years in mineral exploration and mine geology of large Porphyry Cu deposits. Fernanda’s PhD project aims to develop an innovative method to model igneous intrusions, which will be part of LoopStructural. This method will integrate ground-breaking 3D modelling methods and constraints from intrusion emplacement mechanisms to reproduce realistic intrusion shapes."
+      "descr": "<a href='https://www.linkedin.com/in/fernanda-alvarado-neves-29636b96/'>Fernanda Alvarada</a> is a geologist with an MSc from the University of Chile, and is currently a PhD candidate at Monash University.  Fernanda’s master thesis focused on understanding the tectonic evolution of the Western Principal Andes Cordillera in Central Chile during the Cenozoic era. After completing her masters, she worked a few years in mineral exploration and mine geology of large Porphyry Cu deposits. Fernanda’s PhD project aims to develop an innovative method to model igneous intrusions, which will be part of LoopStructural. This method will integrate ground-breaking 3D modelling methods and constraints from intrusion emplacement mechanisms to reproduce realistic intrusion shapes."
     },
     {
       "img": "./images/bios/rabii.jpg",
       "name": "Rabii Chaarani - PhD candidate, Monash University",
-      "descr": "My thesis project is focused on the assessment of the value of structural data of poly-deformed terranes and will address the issue of data representativity and data sparsity/density. The objective of my PhD thesis is to test the sensitivity of the Loop Structural Modelling Engine to data distributions during the modelling of polydeformed terranes. To do this, I will develop a data sampling workflow based upon field-collected data over the Eldee structure in Broken Hill, New South Wales, Australia."
+      "descr": "<a href='https://www.linkedin.com/in/rabii-chaarani/'>Rabii Chaarani</a>'s thesis project is focused on the assessment of the value of structural data of poly-deformed terranes and will address the issue of data representativity and data sparsity/density. The objective of his PhD thesis is to test the sensitivity of the Loop Structural Modelling Engine to data distributions during the modelling of polydeformed terranes. To do this, he will develop a data sampling workflow based upon field-collected data over the Eldee structure in Broken Hill, New South Wales, Australia."
     },
     {
       "img": "./images/bios/droniou.png",
-      "name": "Jerome Droniou - Monash University",
+      "name": "Jerome Droniou - Professor, School of Mathematics, Monash University",
       "descr": "<a href='https://users.monash.edu/~jdroniou/'>Jerome Droniou's</a> area of expertise is the design and mathematical analysis of numerical schemes for porous media flows. He is interested in numerical methods for non-linear models (including multi-phase flows in fractured media) and in establishing their mathematical properties - including convergence without assuming non-physical properties on the data. The methods developed are applicable to meshes with generic polytopes as elements. In LOOP, Jerome has been contributing to designing new discrete implicit modelling methods for approximating implicit functions used to represent geological objects within geological models."
     },
     {
       "img": "./images/bios/gessner.jpg",
-      "name": "Klaus Gessner - Geological Survey of Western Australia",
+      "name": "Klaus Gessner - Chief Geoscientist, Geological Survey of Western Australia",
       "descr": "<a href='https://research-repository.uwa.edu.au/en/persons/klaus-gessner'>Klaus Gessner</a> is the Chief Geoscientist at the Geological Survey of Western Australia and an Adjunct Senior Research Fellow at The University of Western Australia. He has a background in Structural Geology and Tectonics with a focus on mineral and geothermal systems and has used 3D geological modelling to integrate regional-scale geoscience data."
     },
     {
       "img": "./images/bios/hill.jpg",
-      "name": "Steve Hill - Geoscience Australia",
+      "name": "Steve Hill - Chief Scientist, Geoscience Australia",
       "descr": "<a href='linkedin.com/in/steve-hill-a1b622117'>Steve Hill</a> is Geoscience Australia’s Chief Scientist, but before that he was South Australia’s Chief Government Geologist / Director of the Geological Survey of South Australia, as well as an academic at the University of Adelaide and the University of Canberra.  He is also a Fellow of the AusIMM and the Geological Society of Australia."
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "img": "./images/bios/mclean.jpg",
-      "name": "Mark McLean - Geological Survey of Victoria",
+      "name": "Mark McLean - Geophysicist, Geological Survey of Victoria",
       "descr": "<a href='https://earthresources.vic.gov.au/geology-exploration/geological-survey-victoria'>Mark McLean</a> completed Arts/Science and Master of Science degrees at Monash University and then completed a PhD at The University of Melbourne in 2008 which involved acquisition, interpretation and modelling of an airborne geophysical survey over the Lambert Rift region in East Antarctica. Since then, Mark has worked at the Geological Survey of Victoria building regional 3D framework and rock property models using geological and geophysical datasets. Mark's time is now split between the GSV, and The University of Melbourne where he lectures in Applied Geophysics."
     },
     {
