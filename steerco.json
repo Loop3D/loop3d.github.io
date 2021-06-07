@@ -1,0 +1,36 @@
+{
+  "biogs": [
+    
+    {
+      "img": "./images/bios/kemp.jpg",
+      "name": "<a href='https://www.linkedin.com/in/carina-kemp-4610795/?originalSubdomain=au'>Carina Kemp</a>",
+      "descr": "Executive Director Enabling Research & Innovation, Aarnet - Chair of the Loop Steering Committee"
+    },
+    {
+      "img": "./images/bios/laurent.jpg",
+      "name": "<a href='https://research.monash.edu/en/persons/laurent-ailleres'>Laurent Ailleres</a>",
+      "descr": "Lead Chief Investigator Loop Platform - Monash University - Representing the research team of the Loop Platform"
+    },
+    {
+      "img": "./images/bios/jessell.jpg",
+      "name": "<a href='https://research-repository.uwa.edu.au/en/persons/mark-jessell'>Mark Jessell</a>",
+      "descr": "University of Western Australia - Representing the research team from Project 6 - MinEx CRC"
+    },
+    {
+      "img": "./images/bios/hill.jpg",
+      "name": "<a href='https://linkedin.com/in/steve-hill-a1b622117'>Steve Hill</a>",
+      "descr": "Chief Scientist Geoscience Australia - Representing Geoscience Australia"
+    },
+    {
+      "img": "./images/bios/harrison.jpg",
+      "name": "<a href='https://www.linkedin.com/in/matt-harrison-80224b1a/?originalSubdomain=uk'>Matthew Harrison</a>",
+      "descr": "Director - Data, Numerical Services and Infrastructure, Bureau de Recherches Geologiques et Minieres (BRGM, France) - Representing the OneGeology consortium"
+    },
+    
+    {
+      "img": "./images/bios/rawling.jpg",
+      "name": "<a href='https://www.linkedin.com/in/tim-rawling-02a5ab/'>Tim Rawling</a> AuScope",
+      "descr": "CEO AuScope - Representing AuScope"
+    }
+  ]
+}
