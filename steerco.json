@@ -22,11 +22,15 @@
       "descr": "Chief Scientist Geoscience Australia - Representing Geoscience Australia"
     },
     {
+      "img": "./images/bios/gessner.jpg",
+      "name": "<a href='https://research-repository.uwa.edu.au/en/persons/klaus-gessner'>Klaus Gessner</a>",
+      "descr": "Chief Geoscientist, Geological Survesty of Western Australia - Representing the State and Territory Geological Surveys of Australia"
+    },
+    {
       "img": "./images/bios/harrison.jpg",
       "name": "<a href='https://www.linkedin.com/in/matt-harrison-80224b1a/?originalSubdomain=uk'>Matthew Harrison</a>",
       "descr": "Director - Data, Numerical Services and Infrastructure, Bureau de Recherches Geologiques et Minieres (BRGM, France) - Representing the OneGeology consortium"
     },
-    
     {
       "img": "./images/bios/rawling.jpg",
       "name": "<a href='https://www.linkedin.com/in/tim-rawling-02a5ab/'>Tim Rawling</a> AuScope",
