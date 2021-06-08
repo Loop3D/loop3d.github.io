@@ -38,7 +38,7 @@
     {
       "img": "./images/bios/montision.jpg",
       "name": "Rebecca Montsion - PhD candidate, Laurentian University & UWA",
-      "descr": "TBC"
+      "descr": "<a href='https://hes.laurentian.ca/people/rebecca-montsion'>Becki Montsion</a> is a cotutelle PhD Candidate at Laurentian University’s Mineral Exploration Research Center (MERC) in Sudbury, Canada and the University of Western Australia’s Center for Exploration Targeting (CET) in Perth, Australia.  She has 8 years of experience with 3D geological modelling and geostatistical analyses. Currently, Becki’s PhD research focuses on improving mineral exploration in greenfields settings through development of feature engineering techniques and machine learning. These techniques are designed to make exploration more quantitative and reduce human bias."
     },
     {
       "img": "./images/bios/moro.jpg",
@@ -49,6 +49,11 @@
       "img": "./images/bios/rashidifard.jpg",
       "name": "Mahtab Rashidifard - PhD candidate, UWA",
       "descr": "<a href='http://www.cet.edu.au/who-we-are/a-z-student-profiles/mahtab-rashidifard'>Mahtab Rashidifard</a> is a Ph.D. student in Geophysics at Center for exploration targeting, University of Western Australia. Her research interest is integrated inversion of geophysical datasets, seismic and gravity data in particular. The main emphasis of her project is the integration of geophysical datasets with different spatial coverage with the aim of compatibility of the results with 3D geological modeling purposes."
+    },
+    {
+      "img": "./images/bios/spampinato.jpg",
+      "name": "Giovanni Spampinato - Senior Geoscientist, Geological Survey NSW",
+      "descr": "<a href='http://nsw.gov.au/regionalnsw'>Giovanni Spampinato</a> is an experienced geophysicist with project management background. His expertise includes 3D integration and interpretation of geological datasets, 3D modelling & geophysical inversion and large data management for mineral exploration, resource evaluation and targeting. Giovanni has completed a PhD at Monash University and before joining the NSW Geological Survey as a senior geoscientist, he worked as a consultant at Mira Geoscience in Brisbane."
     }
   ]
 }
