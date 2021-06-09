@@ -27,6 +27,13 @@
 			"img": "./images/agents.png",
 			"linux": "https://github.com/Loop3D/GeoSwarm",
 			"windows": "https://github.com/Loop3D/GeoSwarm"
+		},
+		{
+			"title": "Geoscience Ontology Dataset",
+			"desc": "Geoscience Ontology Release",
+			"img": "./images/GSO.jpg",
+			"linux": "http://doi.org/10.5281/zenodo.4750707",
+			"windows": "http://doi.org/10.5281/zenodo.4750707"
 		}
 	],
 
@@ -43,7 +50,7 @@
 		},
 		{
 			"title": "2021 - <a href='https://doi.org/10.4095/328296'>OpenAccess</a> - The GeoScience Ontology reference. Geological Survey of Canada, Open File 8796, 34p",
-			"authors": "Brodaric, B., Richard, S.,.",
+			"authors": "Brodaric, B., Richard, S. - <a href= http://doi.org/10.5281/zenodo.4750707>Link to complementary dataset</a>",
 			"link": "https://doi.org/10.4095/328296"
 		},
 		{
