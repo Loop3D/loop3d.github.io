@@ -2,62 +2,67 @@
   "biogs": [
     {
       "img": "./images/bios/alvarado.jpg",
-      "name": "Fernanda Alvarado-Neves - PhD candidate, Monash University",
-      "descr": "<a href='https://www.linkedin.com/in/fernanda-alvarado-neves-29636b96/'>Fernanda Alvarada</a> is a geologist with an MSc from the University of Chile, and is currently a PhD candidate at Monash University.  Fernanda’s master thesis focused on understanding the tectonic evolution of the Western Principal Andes Cordillera in Central Chile during the Cenozoic era. After completing her masters, she worked a few years in mineral exploration and mine geology of large Porphyry Cu deposits. Fernanda’s PhD project aims to develop an innovative method to model igneous intrusions, which will be part of LoopStructural. This method will integrate ground-breaking 3D modelling methods and constraints from intrusion emplacement mechanisms to reproduce realistic intrusion shapes."
+      "name": "<a href='https://www.linkedin.com/in/fernanda-alvarado-neves-29636b96/'>Fernanda Alvarado-Neves</a> - PhD candidate, Monash University",
+      "descr": "<a href='https://www.linkedin.com/in/fernanda-alvarado-neves-29636b96/'>Fernanda Alvarado</a> is a geologist with an MSc from the University of Chile, and is currently a PhD candidate at Monash University.  Fernanda’s master thesis focused on understanding the tectonic evolution of the Western Principal Andes Cordillera in Central Chile during the Cenozoic era. After completing her masters, she worked a few years in mineral exploration and mine geology of large Porphyry Cu deposits. Fernanda’s PhD project aims to develop an innovative method to model igneous intrusions, which will be part of LoopStructural. This method will integrate ground-breaking 3D modelling methods and constraints from intrusion emplacement mechanisms to reproduce realistic intrusion shapes."
     },
     {
       "img": "./images/bios/rabii.jpg",
-      "name": "Rabii Chaarani - PhD candidate, Monash University",
+      "name": "<a href='https://www.linkedin.com/in/rabii-chaarani/'>Rabii Chaarani</a> - PhD candidate, Monash University",
       "descr": "<a href='https://www.linkedin.com/in/rabii-chaarani/'>Rabii Chaarani</a>'s thesis project is focused on the assessment of the value of structural data of poly-deformed terranes and will address the issue of data representativity and data sparsity/density. The objective of his PhD thesis is to test the sensitivity of the Loop Structural Modelling Engine to data distributions during the modelling of polydeformed terranes. To do this, he will develop a data sampling workflow based upon field-collected data over the Eldee structure in Broken Hill, New South Wales, Australia."
     },
     {
       "img": "./images/bios/collon.jpg",
-      "name": "Pauline Collon - Lecturer, Universte de Lorraine, France",
+      "name": "<a href='https://www.ring-team.org/home/team?view=user&id=189&start=0'>Pauline Collin</a> - Lecturer, Universite de Lorraine, France",
       "descr": "<a href='https://www.ring-team.org/home/team?view=user&id=189&start=0'>Pauline Collin</a> obtained her PhD in Hydrology & Civil Engineering in 2003 from INPL, Nancy (France). She was teaching assistant in Hydrology at ENGEES engineering school in Strasbourg (2004-2005) and became lecturer in the Université de Reims-Champagne-Ardennes (2005-2007). In 2007, she moved to the Ecole Nationale Superieure de Geologie de Nancy, Université de Lorraine, to lecture in geomodelling and hydrogeology. She is a member of the research team in integrative numerical geology (RING) led by Prof. Caumon at the GeoRessources laboratory. Her work is dedicated to the development of novel methodologies for the modelling of reservoirs characterized by a complex geometry, like flooded mines, karstic networks or channelized systems."
     },
     {
+      "img": "./images/bios/cupillard.png",
+      "name": "<a href='https://www.ring-team.org/home/team?view=user&id=431&start=0'>Paul Cupillard</a> - Lecturer, Universite de Lorraine, France",
+      "descr": "<a href='https://www.ring-team.org/home/team?view=user&id=431&start=0'>Paul Cupillard</a> is a seismologist, working on the numerical simulation of wave propagation in complex geological environnments. He obtained his doctorate degree in 2008 at Institut de Physique du Globe de Paris and conducted a post-doctoral research at UC Berkeley, California, from 2008 to 2010. Paul is now an Associate Professor in the RING team at Université de Lorraine, France. Among other research paths, he is interested in the downscaling of full waveform inversion images for reducing structural uncertainties."
+    },
+    {
       "img": "./images/bios/droniou.png",
-      "name": "Jerome Droniou - Professor, School of Mathematics, Monash University",
+      "name": "<a href='https://users.monash.edu/~jdroniou/'>Jerome Droniou</a> - Professor, School of Mathematics, Monash University",
       "descr": "<a href='https://users.monash.edu/~jdroniou/'>Jerome Droniou's</a> area of expertise is the design and mathematical analysis of numerical schemes for porous media flows. He is interested in numerical methods for non-linear models (including multi-phase flows in fractured media) and in establishing their mathematical properties - including convergence without assuming non-physical properties on the data. The methods developed are applicable to meshes with generic polytopes as elements. In LOOP, Jerome has been contributing to designing new discrete implicit modelling methods for approximating implicit functions used to represent geological objects within geological models."
     },
     {
       "img": "./images/bios/gessner.jpg",
-      "name": "Klaus Gessner - Chief Geoscientist, Geological Survey of Western Australia",
+      "name": "<a href='https://research-repository.uwa.edu.au/en/persons/klaus-gessner'>Klaus Gessner</a> - Chief Geoscientist, Geological Survey of Western Australia",
       "descr": "<a href='https://research-repository.uwa.edu.au/en/persons/klaus-gessner'>Klaus Gessner</a> is the Chief Geoscientist at the Geological Survey of Western Australia and an Adjunct Senior Research Fellow at The University of Western Australia. He has a background in Structural Geology and Tectonics with a focus on mineral and geothermal systems and has used 3D geological modelling to integrate regional-scale geoscience data."
     },
     {
       "img": "./images/bios/hill.jpg",
-      "name": "Steve Hill - Chief Scientist, Geoscience Australia",
+      "name": "<a href='linkedin.com/in/steve-hill-a1b622117'>Steve Hill</a> - Chief Scientist, Geoscience Australia",
       "descr": "<a href='linkedin.com/in/steve-hill-a1b622117'>Steve Hill</a> is Geoscience Australia’s Chief Scientist, but before that he was South Australia’s Chief Government Geologist / Director of the Geological Survey of South Australia, as well as an academic at the University of Adelaide and the University of Canberra.  He is also a Fellow of the AusIMM and the Geological Society of Australia."
     },
     {
       "img": "./images/bios/ranee.jpg",
-      "name": "Ranee Joshi - PhD candidate, University of Western Australia",
+      "name": "<a href='http://www.cet.edu.au/who-we-are/a-z-student-profiles/ranee-joshi'>Ranee Joshi</a> - PhD candidate, University of Western Australia",
       "descr": "<a href='http://www.cet.edu.au/who-we-are/a-z-student-profiles/ranee-joshi'>Ranee Joshi's</a> research focuses on Multiscale 3D Geological Modelling of the Yalgoo-Singleton Greenstone Belt. The project aims to integrate and maximize rich multiscale datasets by defining a method to properly subsample geological information across scales and estimate the uncertainty generated through data reduction."
     },
     {
       "img": "./images/bios/mclean.jpg",
-      "name": "Mark McLean - Geophysicist, Geological Survey of Victoria",
+      "name": "<a href='https://earthresources.vic.gov.au/geology-exploration/geological-survey-victoria'>Mark McLean</a> - Geophysicist, Geological Survey of Victoria",
       "descr": "<a href='https://earthresources.vic.gov.au/geology-exploration/geological-survey-victoria'>Mark McLean</a> completed Arts/Science and Master of Science degrees at Monash University and then completed a PhD at The University of Melbourne in 2008 which involved acquisition, interpretation and modelling of an airborne geophysical survey over the Lambert Rift region in East Antarctica. Since then, Mark has worked at the Geological Survey of Victoria building regional 3D framework and rock property models using geological and geophysical datasets. Mark's time is now split between the GSV, and The University of Melbourne where he lectures in Applied Geophysics."
     },
     {
       "img": "./images/bios/montision.jpg",
-      "name": "Rebecca Montsion - PhD candidate, Laurentian University & UWA",
+      "name": "<a href='https://hes.laurentian.ca/people/rebecca-montsion'>Becki Montsion</a> - PhD candidate, Laurentian University & UWA",
       "descr": "<a href='https://hes.laurentian.ca/people/rebecca-montsion'>Becki Montsion</a> is a cotutelle PhD Candidate at Laurentian University’s Mineral Exploration Research Center (MERC) in Sudbury, Canada and the University of Western Australia’s Center for Exploration Targeting (CET) in Perth, Australia.  She has 8 years of experience with 3D geological modelling and geostatistical analyses. Currently, Becki’s PhD research focuses on improving mineral exploration in greenfields settings through development of feature engineering techniques and machine learning. These techniques are designed to make exploration more quantitative and reduce human bias."
     },
     {
       "img": "./images/bios/moro.jpg",
-      "name": "Polyanna De Sousa Moro - PhD candidate, UWA",
+      "name": "<a href='http://www.cet.edu.au/who-we-are/a-z-student-profiles/polyanna-moro'>Polyanna de Sousa Moro</a> - PhD candidate, UWA",
       "descr": "<a href='http://www.cet.edu.au/who-we-are/a-z-student-profiles/polyanna-moro'>Polyanna de Sousa Moro's</a> PhD project is entitled “Geodynamics and basin evolution of the Paterson Orogen from Paleoproterozoic to Neoproterozoic based on 3D geophysical modelling and data inversion”. This project is part of the granted MRIWA M521 project entitled “Lithospheric and crustal-scale controls on multi-stage basin evolution: Impacts on Mineralising Systems”. This PhD will mainly focus on investigating the architecture and evolution of the basins of the region. Definition of basin architecture will be achieved through 3D structural modelling supported by geophysical inversion. "
     },
     {
       "img": "./images/bios/rashidifard.jpg",
-      "name": "Mahtab Rashidifard - PhD candidate, UWA",
+      "name": "<a href='http://www.cet.edu.au/who-we-are/a-z-student-profiles/mahtab-rashidifard'>Mahtab Rashidifard</a> - PhD candidate, UWA",
       "descr": "<a href='http://www.cet.edu.au/who-we-are/a-z-student-profiles/mahtab-rashidifard'>Mahtab Rashidifard</a> is a Ph.D. student in Geophysics at Center for exploration targeting, University of Western Australia. Her research interest is integrated inversion of geophysical datasets, seismic and gravity data in particular. The main emphasis of her project is the integration of geophysical datasets with different spatial coverage with the aim of compatibility of the results with 3D geological modeling purposes."
     },
     {
       "img": "./images/bios/spampinato.jpg",
-      "name": "Giovanni Spampinato - Senior Geoscientist, Geological Survey NSW",
+      "name": "<a href='http://nsw.gov.au/regionalnsw'>Giovanni Spampinato</a> - Senior Geoscientist, Geological Survey NSW",
       "descr": "<a href='http://nsw.gov.au/regionalnsw'>Giovanni Spampinato</a> is an experienced geophysicist with project management background. His expertise includes 3D integration and interpretation of geological datasets, 3D modelling & geophysical inversion and large data management for mineral exploration, resource evaluation and targeting. Giovanni has completed a PhD at Monash University and before joining the NSW Geological Survey as a senior geoscientist, he worked as a consultant at Mira Geoscience in Brisbane."
     }
   ]
