@@ -64,6 +64,11 @@
       "img": "./images/bios/spampinato.jpg",
       "name": "<a href='http://nsw.gov.au/regionalnsw'>Giovanni Spampinato</a> - Senior Geoscientist, Geological Survey NSW",
       "descr": "<a href='http://nsw.gov.au/regionalnsw'>Giovanni Spampinato</a> is an experienced geophysicist with project management background. His expertise includes 3D integration and interpretation of geological datasets, 3D modelling & geophysical inversion and large data management for mineral exploration, resource evaluation and targeting. Giovanni has completed a PhD at Monash University and before joining the NSW Geological Survey as a senior geoscientist, he worked as a consultant at Mira Geoscience in Brisbane."
+    },
+    {
+      "img": "./images/bios/wellmann.png",
+      "name": "<a href='https://www.cgre.rwth-aachen.de/'>Florian Wellmann</a> - Junior Professor at RWTH, Aachen, Germany",
+      "descr": "<a href='http://nsw.gov.au/regionalnsw'>Florian Wellmann</a> is professor in Computational Geoscience and Reservoir Engineering the RWTH Aachen University. He studied geology with a focus on applied geology and geophysics at Tübingen University. After a stay on the Antarctic Research Station -Neumayer II, Florian started his work on geological modeling with uncertainty quantification for geothermal resource estimations at the Institute for Geothermal Resource Management in Mainz, followed by PhD studies at the University of Western Australia (Perth) on this topic. After PostDoc positions at the CSIRO and CET In Perth, Florian obtained a position as Junior Professor at RWTH Aachen and was promoted to full professor in 2018. He has extensive experience in geological modeling, geophysical process simulations, joint inversion and uncertainty quantification."
     }
   ]
 }
