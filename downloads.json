@@ -2,7 +2,7 @@
 	"software": [
 		{
 			"title": "The Loop Interface",
-			"desc": "Loop does not require installing. To use Loop, unzip the Loop3D directory to your local drive. Navigate to the Loop3D folder. Run the loop.bat file",
+			"desc": "Loop does not require installing. To use Loop, unzip the Loop3D directory to your local drive. Navigate to the Loop3D folder. Run the loop.bat file.  Loop comes with its own python environment, hence, the large file size",
 			"img": "./images/interface.png",
 			"linux": "https://github.com/Loop3D/Loop3D",
 			"windows": "https://cloudstor.aarnet.edu.au/plus/s/mxvOENfr3kS45V0/download"
