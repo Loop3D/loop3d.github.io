@@ -22,6 +22,13 @@
 			"windows": "https://github.com/Loop3D/LoopStructural"
 		},
 		{
+			"title": "Tomofast-x",
+			"desc": "Geophysical 3D potential field joint and constrained parallel inversion code",
+			"img": "./images/tomofast.png",
+			"linux": "https://github.com/TOMOFAST/Tomofast-x",
+			"windows": "https://github.com/TOMOFAST/Tomofast-x"
+		},
+		{
 			"title": "GeoSwarm agents",
 			"desc": "Agents based field interpolator",
 			"img": "./images/agents.png",
