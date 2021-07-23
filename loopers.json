@@ -41,6 +41,11 @@
       "descr": "<a href='linkedin.com/in/steve-hill-a1b622117'>Steve Hill</a> is Geoscience Australia’s Chief Scientist, but before that he was South Australia’s Chief Government Geologist / Director of the Geological Survey of South Australia, as well as an academic at the University of Adelaide and the University of Canberra.  He is also a Fellow of the AusIMM and the Geological Society of Australia."
     },
     {
+      "img": "./images/bios/kelka.jpg",
+      "name": "<a href='https://research.csiro.au/dei/team/ukelka'>Uli Kelka</a> - Research Scientist, CSIRO",
+      "descr": "<a href='https://research.csiro.au/dei/team/ukelka'>Uli Kelka</a> Uli Kelka is a structural geologist with an emphasis on numerical model development. He obtained his German Diploma in Geology/Palaeontology from the Johannes-Gutenberg University, Germany. His PhD that he completed at the School of Geographical and Earth Sciences at the University of Glasgow, United Kingdom was part of the Marie Curie ITN FlowTrans. Currently Uli is working as a Research Scientist at the CSIRO where his work focuses on the statistical analysis of fault and fracture networks using graph theory, and on the numerical treatment of fault zones in large-scale flow simulations."
+    },
+    {
       "img": "./images/bios/ranee.jpg",
       "name": "<a href='http://www.cet.edu.au/who-we-are/a-z-student-profiles/ranee-joshi'>Ranee Joshi</a> - PhD candidate, University of Western Australia",
       "descr": "<a href='http://www.cet.edu.au/who-we-are/a-z-student-profiles/ranee-joshi'>Ranee Joshi's</a> research focuses on Multiscale 3D Geological Modelling of the Yalgoo-Singleton Greenstone Belt. The project aims to integrate and maximize rich multiscale datasets by defining a method to properly subsample geological information across scales and estimate the uncertainty generated through data reduction."
