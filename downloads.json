@@ -51,6 +51,11 @@
 			"link": "./publications/Loop_QR10_May2021.pdf"
 		},
 		{
+			"title": "2021 - <a href='https://doi.org/10.5194/gmd-2021-187'>OpenAccess</a> - Blockworlds 0.1.0: A demonstration of anti-aliased geophysics for probabilistic inversions of implicit and kinematic geological models. Geosci. Model Dev. Discuss., Special issue | The Loop 3D stochastic geological modelling platform – development and applications (Coord. Laurent Ailleres)",
+			"authors": "Scalzo, R., Lindsay, M., Jessell, M., Pirot, G., Giraud, J., Cripps, E., Cripps, S.",
+			"link": "https://doi.org/10.5194/gmd-2021-187"
+		},
+		{
 			"title": "2021 - <a href=' https://doi.org/10.1007/s11004-021-09945-x'>OpenAccess</a> - Three-Dimensional Structural Geological Modeling Using Graph Neural Networks. Math. Geosci.",
 			"authors": "Hillier., M., Wellmann, F., Brodaric, B., de Kemp, E., Schetselaar, E.",
 			"link": " https://doi.org/10.1007/s11004-021-09945-x"
