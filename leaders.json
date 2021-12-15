@@ -12,8 +12,8 @@
 		"img": "./images/bios/roy.png"
 	},
 	{
-		"name": "Boyan Brodaric",
-		"title": "Work Package 1 Lead",
+		"name": "Boyan Brodaric",
+		"title": "Work Package 1 Lead",
 		"bio": "Boyan Brodaric is a geoscience information research scientist at the Geological Survey of Canada, with a research focus on data interoperability and AI knowledge representation, including the Semantic Web and formal ontology. Recent application areas include geology (mapping and 3D modelling) and hydrology (groundwater and surface water), as well as  past and present leadership of international data standards (GeoSciML, GroundwaterML) and data networks (Groundwater Information Network).  Other contributions include membership in the editorial board of several international journals and the program committee of various conferences.",
 		"img": "./images/bios/boyan.jpg"
 	},
@@ -60,9 +60,9 @@
 		"img": "./images/bios/eric.jpg"
 	},
 	{
-		"name": "Vitaly Ogarko",
+		"name": "Vitaliy Ogarko",
 		"title": "Senior Researcher",
-		"bio": "Vitaly is an applied mathematician who holds a PhD degree in Computational Physics. During his PhD study he was using hard-sphere simulations to study physical properties of non-equilibrium mixtures of fluids and granular materials. His other areas of expertise include design and development of high-performance computational algorithms in application to geophysical inversion, radioastronomy calibration, and computational geology. In June 2021, Vitaly joined the Centre for Exploration Targeting to work on the MinEx project Recovery of stratigraphic data from drillhole databases. This project aims to recover stratigraphic information from legacy geological survey drillhole databases. Legacy and new drillhole data are a key constraints for geological understanding and subsequent building of 3D geological models. Company databases held by Australian Geological Surveys often contain complexly coded lithological information, but limited stratigraphic data.  This project will develop Open Source algorithms to automate the extraction of lithological and stratigraphic information with associated uncertainty quantification.",
+		"bio": "Vitaliy is an applied mathematician who holds a PhD degree in Computational Physics. During his PhD study he was using hard-sphere simulations to study physical properties of non-equilibrium mixtures of fluids and granular materials. His other areas of expertise include design and development of high-performance computational algorithms in application to geophysical inversion, radioastronomy calibration, and computational geology. In June 2021, Vitaliy joined the Centre for Exploration Targeting to work on the MinEx project Recovery of stratigraphic data from drillhole databases. This project aims to recover stratigraphic information from legacy geological survey drillhole databases. Legacy and new drillhole data are a key constraints for geological understanding and subsequent building of 3D geological models. Company databases held by Australian Geological Surveys often contain complexly coded lithological information, but limited stratigraphic data.  This project will develop Open Source algorithms to automate the extraction of lithological and stratigraphic information with associated uncertainty quantification.",
 		"img": "./images/bios/vitaly.jpg"
 	}
 ]
