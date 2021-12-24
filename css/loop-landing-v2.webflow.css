@@ -504,6 +504,10 @@ img {
 	background-image: url("../images/bios/eric.jpg");
 }
 
+.vitaly {
+	background-image: url("../images/bios/vitaly.jpg");
+}
+
 *,
 *::after,
 *::before {
