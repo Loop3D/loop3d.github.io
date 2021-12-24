@@ -3,6 +3,7 @@ let home = (function () {
 
 	makeHTML = (name, title, bio, img) => {
 		let css_class = img.split("\\").pop().split("/").pop().split(".")[0];
+		console.log(css_class)
 		return `
             <div role="listitem" class="blog-thumbnail w-dyn-item w-col w-col-4">
               <a href="#" data-w-id="46150442-4efa-9d36-3a4c-20d527e7a6bc" class="thumbnail-wrapper w-inline-block">
@@ -35,6 +36,7 @@ let home = (function () {
 			success: function (data) {
 				let leaderSection = $("#leader-section");
 				data.forEach((lead) => {
+					// console.log(lead);
 					leaderSection.append(
 						makeHTML(lead.name, lead.title, lead.bio, lead.img)
 					);
