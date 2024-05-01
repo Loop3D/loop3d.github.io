@@ -1,18 +1,11 @@
 {
 	"software": [
 		{
-			"title": "The Loop Interface",
-			"desc": "Loop does not require installing. To use Loop, unzip the Loop3D directory to your local drive. Navigate to the Loop3D folder. Run the loop.bat file.  Loop comes with its own python environment, hence, the large file size",
-			"img": "./images/interface.png",
-			"linux": "https://github.com/Loop3D/Loop3D",
-			"windows": "https://cloudstor.aarnet.edu.au/plus/s/mxvOENfr3kS45V0/download"
-		},
-		{
 			"title": "Map2Loop",
 			"desc": "Automatic map analysis for geological history and data extraction",
 			"img": "./images/map2loop.png",
-			"linux": "https://github.com/Loop3D/map2loop-2",
-			"windows": "https://github.com/Loop3D/map2loop-2"
+			"linux": "https://github.com/Loop3D/map2loop",
+			"windows": "https://github.com/Loop3D/map2loop"
 		},
 		{
 			"title": "LoopStructural",

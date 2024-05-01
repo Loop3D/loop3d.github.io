@@ -10,8 +10,9 @@ let navbar = (function () {
 			'<a href="downloads.html" class="nav-link w-nav-link %">Downloads & Articles</a>',
 			'<a href="work-packages.html" class="nav-link w-nav-link %">Work Packages</a>',
 			'<a href="presentations.html" class="nav-link w-nav-link %">Presentations</a>',
+			'<a href="loopfoundation.html" class="nav-link w-nav-link %">Loop3D Foundation</a>',
 		//	'<a href="blog.html" class="nav-link w-nav-link %">Blog</a>',
-			'<a href="contact.html" class="nav-link w-nav-link %">Contact</a>',
+		//	'<a href="contact.html" class="nav-link w-nav-link %">Contact</a>',
 			'<a href="#" class="close-x w-hidden-main w-hidden-medium w-hidden-small">×</a>',
 			"</nav>",
 		];
