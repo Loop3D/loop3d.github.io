@@ -1,6 +1,11 @@
 {
 	"presentations": [
 		{
+			"title": "Sep 2023 - <a href='https://eurogeosurveys.org/research/our-experts/geological-mapping-and-modelling/'>Geological Mapping & Modelling Expert Group</a><br> Invited presentation by the Europeans Geological Surveys (Eurogeosurveys) <br>An open-source, integrative 3D geological modelling platform",
+			"presenter": "Laurent Ailleres (Monash University)",
+			"video_url": "https://www.youtube.com/embed/vxmbgEeGFiw?si=USwsYZIayc1ee-JV"
+		},
+		{
 			"title": "Sep 2021 - <a href='https://geohug.rocks'>GeoHug Sundowner</a> - Loop: An open source geological modelling platform: digital innovation for a greener future",
 			"presenter": "Laurent Ailleres (Monash University)",
 			"video_url": "https://www.youtube.com/embed/hPQss_DueNI"
