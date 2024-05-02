@@ -7,7 +7,7 @@ let paragraph = (function () {
 				  <div class="w-richtext">
 					  <h3>${title}</h3> 
 					  <blockquote>${information}</blockquote>
-					  <h3> ${sub_info}</h3>
+					  ${sub_info}
 				  </div>
 				</div>
 		`;
