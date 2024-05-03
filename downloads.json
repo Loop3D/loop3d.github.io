@@ -39,14 +39,24 @@
 
 	"publications": [
 		{
-			"title": "2021 - <a href=./publications/Loop_QR10_May2021.pdf>OpenAccess</a> - Loop - Quarterly Report #10 May 2021",
-			"authors": "Ailleres, L., Thomson, R., Brodaric, B., Jessell, M., Grose, L., Giraud, J., Pirot, G., Lindsay, M., Armit, R. and our awesome entire Loop team",
-			"link": "./publications/Loop_QR10_May2021.pdf"
+			"title": "2024 - <a href=./publications/Loop_QR_Mar2024.pdf>OpenAccess</a> - Loop Research Group - Quarterly Report March 2024",
+			"authors": "Ailleres, L., Grose, L., Cheng, N., Rodrigues, A., Ogarko, V., Jessell, M., Thomson, R., Chaarani, R., Pirot, G., Mamboukou, M., and our awesome entire Loop team",
+			"link": "./publications/Loop_QR_Mar2024.pdf"
 		},
 		{
-			"title": "2022 - <a href='https://doi.org/10.5194/gmd-2022-88'>OpenAccess</a> - 3D geological modelling of igneous intrusions in LoopStructural v1.4.4. Geosci. Model Dev. Discuss., Special issue | The Loop 3D stochastic geological modelling platform – development and applications (Coord. Laurent Ailleres)",
+			"title": "2024 - <a href=' https://doi.org/10.5194/gmd-17-2325-2024'>OpenAccess</a> - Tomofast-x 2.0: an open-source parallel code for inversion of potential field data with topography using wavelet compression. Geosci. Model Dev., Special issue | The Loop 3D stochastic geological modelling platform – development and applications (Coord. Laurent Ailleres)",
+			"authors": "Ogarko, V., Frankcombe, K., Liu, T., Giraud, J., Martin, R., Jessell, M.",
+			"link": "https://doi.org/10.5194/gmd-17-1975-2024"
+		},
+		{
+			"title": "2024 - <a href='https://doi.org/10.5194/gmd-17-1975-2024'>OpenAccess</a> - 3D geological modelling of igneous intrusions in LoopStructural v1.5.10 Geosci. Model Dev., Special issue | The Loop 3D stochastic geological modelling platform – development and applications (Coord. Laurent Ailleres)",
 			"authors": "Alvarado-Neves, F., Ailleres, L., Grose, L., Cruden, A.R., Armit, R.",
-			"link": "https://doi.org/10.5194/gmd-2022-88"
+			"link": "https://doi.org/10.5194/gmd-17-1975-2024"
+		},
+		{
+			"title": "2021 - <a href=./publications/Loop_QR10_May2021.pdf>OpenAccess</a> - Loop - Last Quarterly Report - LP17; May 2021",
+			"authors": "Ailleres, L., Thomson, R., Brodaric, B., Jessell, M., Grose, L., Giraud, J., Pirot, G., Lindsay, M., Armit, R. and our awesome entire Loop team",
+			"link": "./publications/Loop_QR10_May2021.pdf"
 		},
 		{
 			"title": "2021 - <a href='https://doi.org/10.5194/gmd-2021-187'>OpenAccess</a> - Blockworlds 0.1.0: A demonstration of anti-aliased geophysics for probabilistic inversions of implicit and kinematic geological models. Geosci. Model Dev. Discuss., Special issue | The Loop 3D stochastic geological modelling platform – development and applications (Coord. Laurent Ailleres)",
