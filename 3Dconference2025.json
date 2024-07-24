@@ -1,0 +1,34 @@
+{
+  "biogs": [
+    {
+      "title": "Location: <a href=https://tradewindshotel.com.au  target=_blank>Tradewinds Hotel</a>, Freemantle, Apr 7-10 2025",
+      "information": "On behalf of the Loop 3D Foundation and the Loop platform, we present a 3D geological modelling conference to discuss current and future workflows, approaches, applications and downfalls of 3D geological modelling at all scales" ,
+      "sub_info": "The conference will run over Tue 8th and Wed 9th April. <br>Half-day workshops will be organised on Mon 7th and Thu 10th April" ,
+      "img": ""
+    },
+    {
+      "title": "Scientific themes:",
+      "information": "• 3D geological modelling methods <br> • integration with geophysical interpretation and modelling <br> • applications to resources management (water, minerals, tailings) <br> • applications to minerals exploration" ,
+      "sub_info": "" ,
+      "img": ""
+    },
+    {
+      "title": "Organising committee",
+      "information": "Laurent Ailleres, Lachlan Grose, Angela Rodrigues, Fernanda Alvarado-Neves - Monash University <br> Mark Jessell, Corinne Debat, Guillaume Pirot - University of Western Australia <br> Marie-Aude Bonnardot - Geoscience Australia, <br> Dorothy Close - Northern Territory Geological Survey, <br> Clint Ward - AngloAmerican<br> Janelle Simpson - Geological Survey of Queensland <br>Carina Kemp - AWS <br> Ruth Murdie - Geological Survey of Western Australia <br>Kerry Turnock - BHP" ,
+      "sub_info": "",
+      "img": ""
+    },
+    {
+      "title": "Registration and abstract submission",
+      "information": "Registration information - <a href=https://eventbrite.com.au  target=_blank> Registration page - Secured by EventBrite</a>" ,
+      "sub_info": "Registration costs are capped at AUD$1000<br>Registration to the workshops requires registration to the conference and will be confirmed on a first-in first-served basis<br><br><table width=350><tr><td>Delegate (2 days conference)</td><td> </td><td>AUD$750</td></tr><tr><td>Delegate Early Bird (prior to Dec 15th)</td><td></td><td>AUD$680</td></tr><tr><td>Student Delegate</td><td></td><td>AUD$350</td></tr><tr><td>Each workshop (half-day)</td><td></td><td>AUD$200</td></tr></table><a href=https://eventbrite.com.au  target=_blank> Link to registration page</a>",
+      "img": ""
+    },
+    {
+      "title": "Partner organisations",
+      "information": "Loop is joint initiative supported by the ARC Linkage program and the MinEx CRC. We gratefully thank the below organisations for their continued trust and support" ,
+      "sub_info": "",
+      "img": "images/loop-partners.png"
+    }
+]
+}
