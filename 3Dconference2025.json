@@ -1,14 +1,14 @@
 {
   "biogs": [
     {
-      "title": "Location: <a href=https://tradewindshotel.com.au  target=_blank>Tradewinds Hotel</a>, Freemantle, Apr 7-10 2025",
-      "information": "On behalf of the Loop 3D Foundation and the Loop platform, we present a 3D geological modelling conference to discuss current and future workflows, approaches, applications and downfalls of 3D geological modelling at all scales" ,
-      "sub_info": "The conference will run over Tue 8th and Wed 9th April. <br>Half-day workshops will be organised on Mon 7th and Thu 10th April" ,
+      "title": "Location: <a href=https://tradewindshotel.com.au  target=_blank>Tradewinds Hotel</a>, Freemantle, Western Australia, Apr 7-10 2025",
+      "information": "On behalf of the <a href=https://loop3d.org/loopfoundation.html  target=_blank>Loop 3D Foundation</a> and the <a href=https://loop3d.org  target=_blank>Loop platform</a>, we will organise a conference on 3D geological modelling to discuss current and future workflows, approaches and applications, and unsolved challenges of 3D geological modelling at all scales" ,
+      "sub_info": "The conference will run in person over Tue 8th and Wed 9th April. <br>A series of half-day workshops will be organised on Mon 7th and Thu 10th April" ,
       "img": ""
     },
     {
       "title": "Scientific themes:",
-      "information": "• 3D geological modelling methods <br> • integration with geophysical interpretation and modelling <br> • applications to resources management (water, minerals, tailings) <br> • applications to minerals exploration" ,
+      "information": "• 3D geological modelling methods <br> • Integration with geophysical interpretation and modelling <br> • Applications to resources management (water, minerals, tailings) <br> • Applications to minerals exploration" ,
       "sub_info": "" ,
       "img": ""
     },
@@ -19,9 +19,15 @@
       "img": ""
     },
     {
-      "title": "Registration and abstract submission",
-      "information": "Registration information - <a href=https://eventbrite.com.au  target=_blank> Registration page - Secured by EventBrite</a>" ,
-      "sub_info": "Registration costs are capped at AUD$1000<br>Registration to the workshops requires registration to the conference and will be confirmed on a first-in first-served basis<br><br><table width=350><tr><td>Delegate (2 days conference)</td><td> </td><td>AUD$750</td></tr><tr><td>Delegate Early Bird (prior to Dec 15th)</td><td></td><td>AUD$680</td></tr><tr><td>Student Delegate</td><td></td><td>AUD$350</td></tr><tr><td>Each workshop (half-day)</td><td></td><td>AUD$200</td></tr></table><a href=https://eventbrite.com.au  target=_blank> Link to registration page</a>",
+      "title": "Abstracts submission - Deadline: Dec 15, 2024",
+      "information": "We welcome abstracts from 3D practioners and method developers from industry, academia and government organisations related to 3D geological modelling in general and highlighting current practices, applications and challenges" ,
+      "sub_info": "Presenters must attend the conference in person and be registered<br>There is no abstract submission fee<br>Please use <a href= >this abstract template </a> and <a href= >submit your abstract here</a> before Dec 15, 2024",
+      "img": ""
+    },
+    {
+      "title": "Registration",
+      "information": "Registration information - <a href=https://eventbrite.com.au  target=_blank> Registration page - Secured by Eventbrite</a>" ,
+      "sub_info": "Registration costs are capped at AUD$1000<br>Registration to the workshops requires registration to the conference and will be confirmed on a first-in first-served basis<br><br><table width=350><tr><td>Delegate (2 days conference)</td><td> </td><td>AUD$750</td></tr><tr><td>Delegate Early Bird (prior to Dec 15th)</td><td></td><td>AUD$680</td></tr><tr><td>Student Delegate</td><td></td><td>AUD$350</td></tr><tr><td>Each workshop (half-day)</td><td></td><td>AUD$200</td></tr></table><a href=https://eventbrite.com.au  target=_blank> Link to registration page</a><br>Cancellation policy",
       "img": ""
     },
     {
