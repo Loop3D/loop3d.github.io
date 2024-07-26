@@ -1,6 +1,12 @@
 {
   "biogs": [
     {
+      "title": "",
+      "information": "",
+      "sub_info": "" ,
+      "img": "./images/fremantle_boats.png"
+    },
+    {
       "title": "Location: <a href=https://tradewindshotel.com.au  target=_blank>Tradewinds Hotel</a>, Freemantle, Western Australia, Apr 7-10 2025",
       "information": "On behalf of the <a href=https://loop3d.org/loopfoundation.html  target=_blank>Loop 3D Foundation</a> and the <a href=https://loop3d.org  target=_blank>Loop platform</a>, we will organise a conference on 3D geological modelling to discuss current and future workflows, approaches and applications, and unsolved challenges of 3D geological modelling at all scales" ,
       "sub_info": "The conference will run in person over Tue 8th and Wed 9th April. <br>A series of half-day workshops will be organised on Mon 7th and Thu 10th April" ,
@@ -13,21 +19,27 @@
       "img": ""
     },
     {
-      "title": "Organising committee",
-      "information": "Laurent Ailleres, Lachlan Grose, Angela Rodrigues, Fernanda Alvarado-Neves - Monash University <br> Mark Jessell, Corinne Debat, Guillaume Pirot - University of Western Australia <br> Marie-Aude Bonnardot - Geoscience Australia, <br> Dorothy Close - Northern Territory Geological Survey, <br> Clint Ward - AngloAmerican<br> Janelle Simpson - Geological Survey of Queensland <br>Carina Kemp - AWS <br> Ruth Murdie - Geological Survey of Western Australia <br>Kerry Turnock - BHP" ,
-      "sub_info": "",
-      "img": ""
-    },
-    {
       "title": "Abstracts submission - Deadline: Dec 15, 2024",
       "information": "We welcome abstracts from 3D practioners and method developers from industry, academia and government organisations related to 3D geological modelling in general and highlighting current practices, applications and challenges" ,
-      "sub_info": "Presenters must attend the conference in person and be registered<br>There is no abstract submission fee<br>Please use <a href= >this abstract template </a> and <a href= >submit your abstract here</a> before Dec 15, 2024",
+      "sub_info": "Presenters must attend the conference in person and be registered. There is no abstract submission fee<br>Please use <a href= >this abstract template </a> and <a href= >submit your abstract here</a> before Dec 15, 2024",
       "img": ""
     },
     {
       "title": "Registration",
       "information": "Registration information - <a href=https://eventbrite.com.au  target=_blank> Registration page - Secured by Eventbrite</a>" ,
       "sub_info": "Registration costs are capped at AUD$1000<br>Registration to the workshops requires registration to the conference and will be confirmed on a first-in first-served basis<br><br><table width=350><tr><td>Delegate (2 days conference)</td><td> </td><td>AUD$750</td></tr><tr><td>Delegate Early Bird (prior to Dec 15th)</td><td></td><td>AUD$680</td></tr><tr><td>Student Delegate</td><td></td><td>AUD$350</td></tr><tr><td>Each workshop (half-day)</td><td></td><td>AUD$200</td></tr></table><a href=https://eventbrite.com.au  target=_blank> Link to registration page</a><br>Cancellation policy",
+      "img": ""
+    },
+    {
+      "title": "Accommodation",
+      "information": "We are pleased to inform you that delegates can enjoy a special rate at the Tradewinds Hotel using the promo code: LOOP2025" ,
+      "sub_info": "Please enter this code when booking online at <a href=https://tradewindshotel.com.au  target=_blank>Tradewinds Hotel</a>",
+      "img": ""
+    },
+    {
+      "title": "Organising committee",
+      "information": "Laurent Ailleres, Lachlan Grose, Angela Rodrigues, Fernanda Alvarado-Neves - Monash University <br> Mark Jessell, Corinne Debat, Guillaume Pirot - University of Western Australia <br> Marie-Aude Bonnardot - Geoscience Australia, <br> Dorothy Close - Northern Territory Geological Survey, <br> Clint Ward - AngloAmerican<br> Janelle Simpson - Geological Survey of Queensland <br>Carina Kemp - AWS <br> Ruth Murdie - Geological Survey of Western Australia <br>Kerry Turnock - BHP" ,
+      "sub_info": "",
       "img": ""
     },
     {
