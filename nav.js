@@ -12,7 +12,7 @@ let navbar = (function () {
 			//'<a href="downloads.html" class="nav-link w-nav-link %">Downloads & Articles</a>',
 			'<a href="work-packages.html" class="nav-link w-nav-link %"><b>Work Packages</a>',
 			'<a href="presentations.html" class="nav-link w-nav-link %"><b>Presentations</a>',
-		//	'<a href="3Dconference2025.html" class="nav-link w-nav-link %"><b>3D Modelling conference 2025</a>',
+			'<a href="3Dconference2025.html" class="nav-link w-nav-link %" style="color:rgb(12, 201, 75)"><b>3D Modelling conference 2025</a>',
 			'<a href="PhD.html" class="nav-link w-nav-link %"><b>PhD positions</a>',
 		//	'<a href="blog.html" class="nav-link w-nav-link %">Blog</a>',
 		//	'<a href="contact.html" class="nav-link w-nav-link %">Contact</a>',
