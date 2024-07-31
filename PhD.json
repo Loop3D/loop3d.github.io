@@ -1,0 +1,12 @@
+{
+  "biogs": [
+    {
+      "title": "Integrative geophysics Under cover: getting images of the Unknown Unknown",
+      "information": "Supported by the ARC, UWA, the Geological Survey of Western Australia and CSIRO <br>Applications are welcome within the following broad themes<h3> • Geophysical (geometrical) inversion, integration of geophysical and geological data, implicit geological modelling, integration of potential field data with electromagnetic and/or seismic data, magnetic data inversion, gravity data inversion<br> • Model space exploration, uncertainty analysis and visualisation, Monte Carlo simulations, statistics, case studies, numerical geology and topology, multiple point statistics <br> • Geophysical applications of machine learning, physics(or geology)-informed neural networks, andor invertible neural networks, automatic differentiation, explainable machine learning </h3>",
+      "sub_info": ["The research will be based at the Centre for Exploration Targeting (School of Earth Sciences) at the University of Western Australia (Perth, Australia) within a dynamic team of students and researchers specialising in geophysics, mathematics, geology and statistics. The projects will be carried out in close collaboration with GSWA and with researchers from UWA, CSIRO, the Research for Integrative Numerical Geology Team (RING, GeoRessources, University of Lorraine, France), and Monash University (Melbourne, Australia) through the Loop consortium",
+                  "<br>We are looking for motivated geoscientists to start in Q4 2024 or Q1 2025. Skills in geophysics/physics, and/or numerical geology, and capability to code are essential. The PhD projects will be funded for 3.5 years, with a salary top up. $20,000 per project will be allocated specifically to cover project costs, with the possibility of additional funding during the project.",
+                  "<br>To apply, please send your CV and a motivation letter including a statement of your scientific interests (2 pages max) and include “PhD project” in the subject of your email, to jeremieDOTgiraudATuwaDOTeduDOTau"],
+      "img": ""
+    }
+  ]
+}
