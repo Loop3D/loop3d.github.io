@@ -4,7 +4,7 @@
       "title": "",
       "information": "",
       "sub_info": "" ,
-      "img": "./images/fremantle_boats.png"
+      "img": "./images/fremantle_boats_wtxt.png"
     },
     {
       "title": "Location: <a href=https://tradewindshotel.com.au  target=_blank>Tradewinds Hotel</a>, Freemantle, Western Australia, Apr 7-10 2025",
@@ -45,7 +45,7 @@
     },
     {
       "title": "Partner organisations",
-      "information": "Loop is joint initiative supported by the ARC Linkage program and the MinEx CRC. We gratefully thank the below organisations for their continued trust and support" ,
+      "information": "Loop is joint initiative supported by the ARC Linkage program and the MinEx CRC. We gratefully thank the below organisations for their continued trust, support and contributions to R&D" ,
       "sub_info": "",
       "img": "images/loop-partners.png"
     }
