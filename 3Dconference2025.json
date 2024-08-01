@@ -38,7 +38,8 @@
     },
     {
       "title": "Organising committee",
-      "information": "Laurent Ailleres, Lachlan Grose, Angela Rodrigues, Fernanda Alvarado-Neves - Monash University <br> Mark Jessell, Corinne Debat, Guillaume Pirot - University of Western Australia <br> Marie-Aude Bonnardot - Geoscience Australia, <br> Dorothy Close - Northern Territory Geological Survey, <br> Clint Ward - AngloAmerican<br> Janelle Simpson - Geological Survey of Queensland <br>Carina Kemp - AWS <br> Ruth Murdie - Geological Survey of Western Australia <br>Kerry Turnock - BHP" ,
+      "information": ["Laurent Ailleres, Lachlan Grose, - Monash University <br> Mark Jessell, Corinne Debat - University of Western Australia ",
+                      "<br> More to come - TBC"],
       "sub_info": "",
       "img": ""
     },
@@ -50,3 +51,4 @@
     }
 ]
 }
+      
