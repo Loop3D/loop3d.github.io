@@ -39,6 +39,7 @@
     {
       "title": "Organising committee",
       "information": ["Laurent Ailleres, Lachlan Grose, - Monash University <br> Mark Jessell, Corinne Debat - University of Western Australia ",
+                      "<br>Carina Kemp - Amazon Web Services",
                       "<br> More to come - TBC"],
       "sub_info": "",
       "img": ""
@@ -49,6 +50,6 @@
       "sub_info": "",
       "img": "images/loop-partners.png"
     }
-]
+  ]
 }
       
