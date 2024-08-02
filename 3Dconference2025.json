@@ -38,9 +38,7 @@
     },
     {
       "title": "Organising & Scientific committee",
-      "information": ["Laurent Ailleres, Lachlan Grose, - Monash University <br> Mark Jessell, Corinne Debat - University of Western Australia ",
-                      "<br>Marie-Aude Bonnardot - Geoscience Australia <br>Carina Kemp - Amazon Web Services",
-                      "<br> More to come..."],
+      "information": "Laurent Ailleres, Lachlan Grose <p>Monash University</p> Mark Jessell, Corinne Debat <p>University of Western Australia</p> Marie-Aude Bonnardot <p>Geoscience Australia</p> Carina Kemp <p>Amazon Web Services</p>more to come...",
       "sub_info": "",
       "img": ""
     },
