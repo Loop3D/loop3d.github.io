@@ -33,7 +33,7 @@
     {
       "title": "Registration",
       "information": "Registration information - securely powered by <a href=https://stripe.com/au target=_blank>stripe</a>" ,
-      "sub_info": "Registration costs are capped at AUD$1200 maximum<br>Registration to the workshops requires registration to the conference and will be confirmed on a first-in first-served basis (only 40 attendees per workshop)<br>Reduced students fee: use discount code <a style=color:rgb(125, 50, 10)>3DSTUDENT</a><br>Cancellation policy<br>Link to registration and payment will be up soon",
+      "sub_info": "Registration costs are capped at AUD$1200 maximum<br>Registration to the workshops requires registration to the conference and will be confirmed on a first-in first-served basis (only 40 attendees per workshop)<br>Reduced students fee: use discount code <a style=color:rgb(125, 50, 10)>3DSTUDENT</a> <br>Cancellation policy<br> <script async src=https://js.stripe.com/v3/pricing-table.js target=_blank></script><stripe-pricing-table pricing-table-id=prctbl_1PkzvLRuxDFdvfugMSZ6tq2Y publishable-key= pk_test_51PiSY5RuxDFdvfugaqobaqEnInx7W1Oeyzp9PDusXcay6tfuS6L4quKvYEASwSTF5kemQEQumrGvqHYerCjvgFzC00sTSrk4TI></stripe-pricing-table>",
       "img": ""
     },
     {
