@@ -20,26 +20,26 @@
     },
     {
       "title": "Abstracts submission - Deadline: Dec 15, 2024",
-      "information": "We welcome abstracts from 3D practioners and method developers from industry, academia and government organisations related to 3D geological modelling in general and highlighting current practices, applications and challenges<br><a style=color:rgb(125, 50, 10)>Please also submit abstracts for the workshop on Thursday 10 April</a>" ,
+      "information": "We welcome abstracts from 3D practioners and method developers from industry, academia and government organisations related to 3D geological modelling in general and highlighting current practices, applications and challenges<br><a style=color:rgb(125, 50, 10)>Please also submit abstract for the workshop on Thursday 10 April</a>" ,
       "sub_info": "Presenters must attend the conference in person and be registered. There is no abstract submission fee<br>Please use <a href=images/3DWorkshop_guidelines.docx>this abstract template </a> and <a href=https://form.jotform.com/242188536744869  target=_blank>submit your abstract here as a PDF</a> before Dec 15, 2024",
       "img": ""
     },
     {
       "title": "Program",
       "information": "Overall schedule of the conference" ,
-      "sub_info":"<table><tr><td>Mon 7 April</td><td width=50> </td><td>How to use Loop: hands on map2loop and LoopStructural libraries</td><td width=50></td><td>Lachlan Grose, Rabii Chaarani (Laurent Ailleres)</td></tr><tr><td>Mon 7 April, from 6pm (tbc)</td><td></td><td>Ice Breaker</td><td></td><td><a href=https://form.jotform.com/242197124614858 target=_blank>Contact us</a> if interested in sponsoring this event</td></tr><tr><td>Tue 8 April</td><td></td><td>Technical Conference</td></tr><tr><td>Tue 8 April, from 4pm (tbc)</td><td></td><td>Poster session & happy hours</td></tr><tr><td>Wed 9 April</td><td></td><td>Technical Conference</td></tr><tr><td>Thu 10 April</td><td></td><td>Machine learning and 3D modelling <br>Integrated geophysics and geological modelling</td><td></td><td>Mark Jessell, Mark Lindsay, Helen McFarlane<br>Jeremie Giraud, Vitaly Ogarko</td></tr></table>",
+      "sub_info":"Mon 7 April: Workshop 1 - How to use Loop; hands on map2loop and LoopStructural libraries, presented by Lachlan Grose, Rabii Chaarani (& Laurent Ailleres)<br>Mon 7 April, from 6pm (tbc): Ice Breaker - <a href=https://form.jotform.com/242197124614858 target=_blank>Contact us</a> to sponsor this networking event<br>Tue 8 April: Technical Conference<br>Tue 8 April, from 4pm (tbc) - Poster session & happy hours<br>Wed 9 April: Technical Conference<br>Thu 10 April: Machine learning and 3D modelling; Integrated geophysics and geological modelling, presented by Mark Jessell, Mark Lindsay, Helen McFarlane, Jeremie Giraud, Vitaly Ogarko",
       "img": ""
     },
     {
       "title": "Student Registration",
-      "information": "Use promotion code <b><i><a style=color:rgb(125, 50, 10)>3DSTUDENT</a></b></i> at check-out below" ,
-      "sub_info": "",
+      "information": "Student ONLY Registration information - securely powered by <a href=https://stripe.com/au target=_blank>stripe</a>",
+      "sub_info": "<a href=https://drive.google.com/file/d/1dVTKxzDz3sENlFOOEEI6S7quqf9CZPOU/view?usp=sharing>Cancellation policy</a><br><script async src=https://js.stripe.com/v3/pricing-table.js></script><stripe-pricing-table pricing-table-id=prctbl_1Puw8oRuxDFdvfugfLjOkwF4 publishable-key=pk_live_51PiSY5RuxDFdvfugHdISm50tgoECbyjj36eDYWjYZG1hanHjpJwPRBrfqDvNA8Q04tSWPAxtZtnCS2O2K2l9DSiX00AABQz0LQ></stripe-pricing-table>",
       "img": ""
     },
     {
       "title": "Registration",
       "information": "Registration information - securely powered by <a href=https://stripe.com/au target=_blank>stripe</a>" ,
-      "sub_info": "Registration costs are capped at AUD$1200 maximum<br>Registration to the workshops requires registration to the conference and will be confirmed on a first-in first-served basis (only 40 attendees per workshop)<br>Early birds rates until Dec 15, 2024<br>Cancellation policy<br><br>Link to registration and payment will be up soon",
+      "sub_info": "Registration costs are capped at AUD$1200 maximum<br>Registration to the workshops requires registration to the conference and will be confirmed on a first-in first-served basis (only 40 attendees per workshop)<br>Early birds rates until Dec 15, 2024<br><a href=https://drive.google.com/file/d/1dVTKxzDz3sENlFOOEEI6S7quqf9CZPOU/view?usp=sharing>Cancellation policy</a><br><br> <script async src=https://js.stripe.com/v3/pricing-table.js></script> <stripe-pricing-table pricing-table-id=prctbl_1PuvZ1RuxDFdvfugERsHPRkg publishable-key=pk_live_51PiSY5RuxDFdvfugHdISm50tgoECbyjj36eDYWjYZG1hanHjpJwPRBrfqDvNA8Q04tSWPAxtZtnCS2O2K2l9DSiX00AABQz0LQ> </stripe-pricing-table>",
       "img": ""
     },
     {

@@ -34,7 +34,7 @@ let paragraph = (function () {
 	pub.setup = () => {
 		$.ajax({
 			type: "GET",
-			url: "3Dconference2025 TEST.json",
+			url: "3Dconference2025.json",
 			data: {
 				get_param: "value",
 			},
