@@ -39,6 +39,11 @@
 
 	"publications": [
 		{
+			"title": "2024 - <a href=./publications/Loop_QR_Jun2024.pdf>OpenAccess</a> - Loop Research Group - Quarterly Report Sep 2024",
+			"authors": "Ailleres, L., Grose, L., Cheng, N., Rodrigues, A., Ogarko, V., Jessell, M., Thomson, R., Chaarani, R., Pirot, G., Mamboukou, M., and our awesome entire Loop team",
+			"link": "./publications/Loop_QR_Sep2024.pdf"
+		},
+		{
 			"title": "2024 - <a href=./publications/Loop_QR_Jun2024.pdf>OpenAccess</a> - Loop Research Group - Quarterly Report June 2024",
 			"authors": "Ailleres, L., Grose, L., Cheng, N., Rodrigues, A., Ogarko, V., Jessell, M., Thomson, R., Chaarani, R., Pirot, G., Mamboukou, M., and our awesome entire Loop team",
 			"link": "./publications/Loop_QR_Jun2024.pdf"
