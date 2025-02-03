@@ -7,6 +7,12 @@
       "img": "./images/fremantle_boats_wtxt.png"
     },
     {
+      "title": "<a href=images/3DGeologicalModelling_meeting_1st_circular.pdf> First Circular </a> - Note deadline for abstract is soon:  December 15th ",
+      "information": "" ,
+      "sub_info": "" ,
+      "img": ""
+    },
+    {
       "title": "Location: <a href=https://tradewindshotel.com.au  target=_blank>Tradewinds Hotel</a>, Fremantle, Western Australia, Apr 7-10 2025",
       "information": "On behalf of the <a href=https://loop3d.org/loopfoundation.html  target=_blank>Loop 3D Foundation</a> and the <a href=https://loop3d.org  target=_blank>Loop platform</a>, we will organise a conference on 3D geological modelling to discuss current and future workflows, approaches and applications, and unsolved challenges of 3D geological modelling at all scales" ,
       "sub_info": "The conference will run in person over Tue 8th and Wed 9th April. <br>A series of half-day workshops will be organised on Mon 7th and Thu 10th April" ,
@@ -19,9 +25,9 @@
       "img": ""
     },
     {
-      "title": "Abstracts submission - Closed",
-      "information": "We received abstracts from 3D practioners and method developers from industry, academia and government organisations related to 3D geological modelling in general and highlighting current practices, applications and challenges" ,
-      "sub_info": "Presenters must attend the conference in person and be registered. There is no abstract submission fee<br>If you think you have a last minute abstract to submit - please contact the organising committee <a href=https://form.jotform.com/242197124614858 target=_blank>Contact us</a>",
+      "title": "Abstracts submission - Deadline: Dec 15, 2024",
+      "information": "We welcome abstracts from 3D practioners and method developers from industry, academia and government organisations related to 3D geological modelling in general and highlighting current practices, applications and challenges<br><a style=color:rgb(125, 50, 10)>Please also submit abstract for the workshop on Thursday 10 April</a>" ,
+      "sub_info": "Presenters must attend the conference in person and be registered. There is no abstract submission fee<br>Please use <a href=images/3DWorkshop_guidelines.docx>this abstract template </a> and <a href=https://form.jotform.com/242188536744869  target=_blank>submit your abstract here as a PDF</a> before Dec 15, 2024",
       "img": ""
     },
     {
@@ -33,13 +39,13 @@
     {
       "title": "Student Registration",
       "information": "Student ONLY Registration information - securely powered by <a href=https://stripe.com/au target=_blank>stripe</a>",
-      "sub_info": "<a href=https://drive.google.com/file/d/1dVTKxzDz3sENlFOOEEI6S7quqf9CZPOU/view?usp=sharing>Cancellation policy</a><br><script async src=https://js.stripe.com/v3/pricing-table.js></script><stripe-pricing-table pricing-table-id=prctbl_1QoF8uRuxDFdvfugMA36xISi publishable-key=pk_live_51PiSY5RuxDFdvfugHdISm50tgoECbyjj36eDYWjYZG1hanHjpJwPRBrfqDvNA8Q04tSWPAxtZtnCS2O2K2l9DSiX00AABQz0LQ> </stripe-pricing-table>",
+      "sub_info": "<a href=https://drive.google.com/file/d/1dVTKxzDz3sENlFOOEEI6S7quqf9CZPOU/view?usp=sharing>Cancellation policy</a><br><script async src=https://js.stripe.com/v3/pricing-table.js></script><stripe-pricing-table pricing-table-id=prctbl_1Puw8oRuxDFdvfugfLjOkwF4 publishable-key=pk_live_51PiSY5RuxDFdvfugHdISm50tgoECbyjj36eDYWjYZG1hanHjpJwPRBrfqDvNA8Q04tSWPAxtZtnCS2O2K2l9DSiX00AABQz0LQ></stripe-pricing-table>",
       "img": ""
     },
     {
       "title": "Registration",
       "information": "Registration information - securely powered by <a href=https://stripe.com/au target=_blank>stripe</a>" ,
-      "sub_info": "Registration costs are capped at AUD$1200 maximum<br>Registration to the workshops requires registration to the conference and will be confirmed on a first-in first-served basis (only 40 attendees per workshop)<br><a href=https://drive.google.com/file/d/1dVTKxzDz3sENlFOOEEI6S7quqf9CZPOU/view?usp=sharing>Cancellation policy</a><br><br><script async src=https://js.stripe.com/v3/pricing-table.js></script> <stripe-pricing-table pricing-table-id=prctbl_1QoFNnRuxDFdvfugyiQE242c publishable-key=pk_live_51PiSY5RuxDFdvfugHdISm50tgoECbyjj36eDYWjYZG1hanHjpJwPRBrfqDvNA8Q04tSWPAxtZtnCS2O2K2l9DSiX00AABQz0LQ> </stripe-pricing-table>",
+      "sub_info": "Registration costs are capped at AUD$1200 maximum<br>Registration to the workshops requires registration to the conference and will be confirmed on a first-in first-served basis (only 40 attendees per workshop)<br>Early birds rates until Dec 15, 2024<br><a href=https://drive.google.com/file/d/1dVTKxzDz3sENlFOOEEI6S7quqf9CZPOU/view?usp=sharing>Cancellation policy</a><br><br> <script async src=https://js.stripe.com/v3/pricing-table.js></script> <stripe-pricing-table pricing-table-id=prctbl_1PuvZ1RuxDFdvfugERsHPRkg publishable-key=pk_live_51PiSY5RuxDFdvfugHdISm50tgoECbyjj36eDYWjYZG1hanHjpJwPRBrfqDvNA8Q04tSWPAxtZtnCS2O2K2l9DSiX00AABQz0LQ> </stripe-pricing-table>",
       "img": ""
     },
     {
