@@ -39,7 +39,7 @@
     {
       "title": "Registration",
       "information": "Registration information - securely powered by <a href=https://stripe.com/au target=_blank>stripe</a>" ,
-      "sub_info": "Registration costs are capped at AUD$1200 maximum<br>Registration to the workshops requires registration to the conference and will be confirmed on a first-in first-served basis (only 40 attendees per workshop)<br><a href=https://drive.google.com/file/d/1dVTKxzDz3sENlFOOEEI6S7quqf9CZPOU/view?usp=sharing>Cancellation policy</a><br><br><script async src=https://js.stripe.com/v3/pricing-table.js></script> <stripe-pricing-table pricing-table-id=prctbl_1QoFNnRuxDFdvfugyiQE242c publishable-key=pk_live_51PiSY5RuxDFdvfugHdISm50tgoECbyjj36eDYWjYZG1hanHjpJwPRBrfqDvNA8Q04tSWPAxtZtnCS2O2K2l9DSiX00AABQz0LQ> </stripe-pricing-table>",
+      "sub_info": "Registration to the workshops requires registration to the conference and will be confirmed on a first-in first-served basis (only 40 attendees per workshop)<br><a href=https://drive.google.com/file/d/1dVTKxzDz3sENlFOOEEI6S7quqf9CZPOU/view?usp=sharing>Cancellation policy</a><br><br><script async src=https://js.stripe.com/v3/pricing-table.js></script> <stripe-pricing-table pricing-table-id=prctbl_1QoFNnRuxDFdvfugyiQE242c publishable-key=pk_live_51PiSY5RuxDFdvfugHdISm50tgoECbyjj36eDYWjYZG1hanHjpJwPRBrfqDvNA8Q04tSWPAxtZtnCS2O2K2l9DSiX00AABQz0LQ> </stripe-pricing-table>",
       "img": ""
     },
     {
