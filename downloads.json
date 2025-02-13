@@ -39,6 +39,11 @@
 
 	"publications": [
 		{
+			"title": "2025 - <a href=' https://doi.org/10.5194/gmd-18-71-2025'>OpenAccess</a> - Checking the consistency of 3D geological models. Geosci. Model Dev., Special issue | The Loop 3D stochastic geological modelling platform – development and applications (Coord. Laurent Ailleres)",
+			"authors": "Parquer, M.N., de Kemp, E.A., Brodaric, B., Hillier, M.J.",
+			"link": "https://doi.org/10.5194/gmd-18-71-2025"
+		},
+		{
 			"title": "2024 - <a href=./publications/Loop_QR_Jun2024.pdf>OpenAccess</a> - Loop Research Group - Quarterly Report Sep 2024",
 			"authors": "Ailleres, L., Grose, L., Cheng, N., Rodrigues, A., Ogarko, V., Jessell, M., Thomson, R., Chaarani, R., Pirot, G., Mamboukou, M., and our awesome entire Loop team",
 			"link": "./publications/Loop_QR_Sep2024.pdf"
@@ -53,7 +58,7 @@
 			"authors": "Ailleres, L., Grose, L., Cheng, N., Rodrigues, A., Ogarko, V., Jessell, M., Thomson, R., Chaarani, R., Pirot, G., Mamboukou, M., and our awesome entire Loop team",
 			"link": "./publications/Loop_QR_Mar2024.pdf"
 		},
-		{
+				{
 			"title": "2024 - <a href=' https://doi.org/10.5194/gmd-17-2325-2024'>OpenAccess</a> - Tomofast-x 2.0: an open-source parallel code for inversion of potential field data with topography using wavelet compression. Geosci. Model Dev., Special issue | The Loop 3D stochastic geological modelling platform – development and applications (Coord. Laurent Ailleres)",
 			"authors": "Ogarko, V., Frankcombe, K., Liu, T., Giraud, J., Martin, R., Jessell, M.",
 			"link": "https://doi.org/10.5194/gmd-17-1975-2024"
