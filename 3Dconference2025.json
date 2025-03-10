@@ -27,7 +27,7 @@
     {
       "title": "Student Registration",
       "information": "Student ONLY Registration information - securely powered by <a href=https://stripe.com/au target=_blank>stripe</a>",
-      "sub_info": "<a href=https://drive.google.com/file/d/1dVTKxzDz3sENlFOOEEI6S7quqf9CZPOU/view?usp=sharing>Cancellation policy</a><br><script async src=https://js.stripe.com/v3/pricing-table.js></script><stripe-pricing-table pricing-table-id=prctbl_1QoF8uRuxDFdvfugMA36xISi publishable-key=pk_live_51PiSY5RuxDFdvfugHdISm50tgoECbyjj36eDYWjYZG1hanHjpJwPRBrfqDvNA8Q04tSWPAxtZtnCS2O2K2l9DSiX00AABQz0LQ> </stripe-pricing-table>",
+      "sub_info": "<a href=https://drive.google.com/file/d/1dVTKxzDz3sENlFOOEEI6S7quqf9CZPOU/view?usp=sharing target=_blank>Cancellation policy</a><br><script async src=https://js.stripe.com/v3/pricing-table.js></script><stripe-pricing-table pricing-table-id=prctbl_1QoF8uRuxDFdvfugMA36xISi publishable-key=pk_live_51PiSY5RuxDFdvfugHdISm50tgoECbyjj36eDYWjYZG1hanHjpJwPRBrfqDvNA8Q04tSWPAxtZtnCS2O2K2l9DSiX00AABQz0LQ> </stripe-pricing-table>",
       "img": ""
     },
     {
