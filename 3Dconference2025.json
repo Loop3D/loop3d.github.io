@@ -7,6 +7,12 @@
       "img": "./images/fremantle_boats_wtxt.png"
     },
     {
+      "title": "Program and Abstracts volume",
+      "information": "<a href=./publications/3DGMC_program.pdf target=_blank>Click here to download the program</a> <br> <a href=./publications/3DGMC_abstracts.pdf target=_blank>Click here to download the abstracts volume</a>" ,
+      "sub_info": "" ,
+      "img": ""
+    },
+    {
       "title": "Location: <a href=https://tradewindshotel.com.au  target=_blank>Tradewinds Hotel</a>, Fremantle, Western Australia, Apr 7-10 2025",
       "information": "On behalf of the <a href=https://loop3d.org/loopfoundation.html  target=_blank>Loop 3D Foundation</a> and the <a href=https://loop3d.org  target=_blank>Loop platform</a>, we will organise a conference on 3D geological modelling to discuss current and future workflows, approaches and applications, and unsolved challenges of 3D geological modelling at all scales" ,
       "sub_info": "The conference will run in person over Tue 8th and Wed 9th April. <br>A series of half-day workshops will be organised on Mon 7th and Thu 10th April" ,
