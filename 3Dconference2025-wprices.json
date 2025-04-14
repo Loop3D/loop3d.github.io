@@ -31,9 +31,33 @@
       "img": ""
     },
     {
+      "title": "Student Registration",
+      "information": "Student ONLY Registration information - securely powered by <a href=https://stripe.com/au target=_blank>stripe</a>",
+      "sub_info": "<a href=https://drive.google.com/file/d/1dVTKxzDz3sENlFOOEEI6S7quqf9CZPOU/view?usp=sharing target=_blank>Cancellation policy</a><br><script async src=https://js.stripe.com/v3/pricing-table.js></script><stripe-pricing-table pricing-table-id=prctbl_1QoF8uRuxDFdvfugMA36xISi publishable-key=pk_live_51PiSY5RuxDFdvfugHdISm50tgoECbyjj36eDYWjYZG1hanHjpJwPRBrfqDvNA8Q04tSWPAxtZtnCS2O2K2l9DSiX00AABQz0LQ> </stripe-pricing-table>",
+      "img": ""
+    },
+    {
+      "title": "Registration",
+      "information": "Registration information - securely powered by <a href=https://stripe.com/au target=_blank>stripe</a>" ,
+      "sub_info": "Registration to the workshops requires registration to the conference and will be confirmed on a first-in first-served basis (only 40 attendees per workshop)<br><a href=https://drive.google.com/file/d/1dVTKxzDz3sENlFOOEEI6S7quqf9CZPOU/view?usp=sharing>Cancellation policy</a><br><br><script async src=https://js.stripe.com/v3/pricing-table.js></script> <stripe-pricing-table pricing-table-id=prctbl_1QoFNnRuxDFdvfugyiQE242c publishable-key=pk_live_51PiSY5RuxDFdvfugHdISm50tgoECbyjj36eDYWjYZG1hanHjpJwPRBrfqDvNA8Q04tSWPAxtZtnCS2O2K2l9DSiX00AABQz0LQ> </stripe-pricing-table>",
+      "img": ""
+    },
+    {
+      "title": "Accommodation",
+      "information": "We are pleased to inform you that delegates can enjoy a special rate at the Tradewinds Hotel using the promo code: LOOP2025" ,
+      "sub_info": "Please enter this code when booking online at <a href=https://tradewindshotel.com.au  target=_blank>Tradewinds Hotel</a>",
+      "img": ""
+    },
+    {
       "title": "Organising & Scientific committee",
       "information": "<table><tr><td>Laurent Ailleres, Lachlan Grose, Angela Rodrigues<p>Monash University</p></td><td width=30></td><td>Mark Jessell, Corinne Debat, Guillaume Pirot<p>University of Western Australia</p></td><td width=30></td><td>Marie-Aude Bonnardot <p>Geoscience Australia</p></td></tr><tr><td>Carina Kemp <p>Amazon Web Services</p></td><td width=30></td><td>Ruth Murdie<p>Geological Survey of Western Australia</p></td><td width=30></td><td>Helen McFarlane<p>CSIRO</p></td></tr><tr><td>James Taylor<p>BHP</p></td><td></td><td>Rabii Chaarani<p>Nothern Territory Geological Survey & Monash University</td></tr></table>",
       "sub_info": "",
+      "img": ""
+    },
+    {
+      "title": "Contact us",
+      "information": "",
+      "sub_info": "<a href=https://form.jotform.com/242197124614858 target=_blank>Click here to contact us</a>",
       "img": ""
     },
     {
