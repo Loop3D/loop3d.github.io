@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Laurent Ailleres",
+		"title": "Chief Investigator",
+		"bio": "Initially trained as a structural geologist, Laurent was awarded his PhD in 1996 in France, having worked in the French Alps, from an office only meters away from the development of Gocad. Since 1996, he has been a research fellow at Monash University. He introduced Gocad to the Australian mining industry, academia and many governmental organisations. Laurent is interested in the evolution of tectonic processes through time and their effect on multi-scale mineralisation processes. He specialises in structural geology and geophysics as well as multi-scale 3D geological modelling applied to tectonics and minerals exploration. He teaches field mapping at undergraduate level in poly-deformed metamorphic terranes and advanced structural mapping and structural geophysics at postgraduate level. His geological experience spans multiple scales across Africa, Europe, Australia and the Americas. He leads the Loop initiative to develop the next generation of 3D geological and geophysical modelling tools and champions structurally-ruled probabilistic geological modelling. Laurent is the lead researcher on the Loop Steering Committee",
+		"img": "./images/bios/laurent.jpg"
+	},
+	{
+		"name": "Roy Thomson",
+		"title": "Software Architect",
+		"bio": "Prior to the Loop Project, Roy worked in defence research for over a decade where he designed, implemented and maintained a real-time 3D visualisation package which has been used across Australia and the world.  In the Loop Project, Roy leads Work Package 0 which links all the other Work Packages together and provides a graphical user interface for configuration and control of the Loop workflow and visualisation of each work package’s output.  Roy has two Bachelor Degrees from Monash University, one in Science, majoring in Astrophysics, and the other in Computer Science with Honours in 3D visualisation of large-scale datasets.",
+		"img": "./images/bios/roy.png"
+	},
+	{
+		"name": "Boyan Brodaric",
+		"title": "Work Package 1 Lead",
+		"bio": "Boyan Brodaric is a geoscience information research scientist at the Geological Survey of Canada, with a research focus on data interoperability and AI knowledge representation, including the Semantic Web and formal ontology. Recent application areas include geology (mapping and 3D modelling) and hydrology (groundwater and surface water), as well as  past and present leadership of international data standards (GeoSciML, GroundwaterML) and data networks (Groundwater Information Network).  Other contributions include membership in the editorial board of several international journals and the program committee of various conferences.",
+		"img": "./images/bios/boyan.jpg"
+	},
+	{
+		"name": "Mark Jessell",
+		"title": "Work Package 2 Lead",
+		"bio": "Mark Jessell is a Professor and Western Australian Fellow at the Centre for Exploration Targeting at The University of Western Australia. His scientific interests revolve around microstructure studies (the Elle platform), integration of geology and geophysics in 3D (the Loop project), and the tectonics and metallogenesis of the West African and Guyanese Cratons (WAXI & SAXI). His recently completed Western Australian Fellowship is focused on improving the links between geological and geophysical data analysis in 3D via analysis of the geological and topological uncertainty. In 2013 he was awarded the Geological Society of Australia Hobbs Medal for major contributions in structural geology. Mark represents the MinEx CRC on the Loop Steering Committee",
+		"img": "./images/bios/jessell.jpg"
+	},
+	{
+		"name": "Lachlan Grose",
+		"title": "Work Package 3 Lead",
+		"bio": "Lachlan is a structural geologist with an interest in 3D structural modelling. He is currently working as a research fellow at Monash University for the Loop project. He is the leader of work package 3 and is developing the structural geological modelling library for loop. He completed his PhD “Forward and inverse modelling of geological folds’’ in 2018. His current research interests are in developing new methods for integrating structural geology into 3D geometrical modelling methods.",
+		"img": "./images/bios/grose.jpg"
+	},
+	{
+		"name": "Jérémie Giraud",
+		"title": "Work Package 4 Lead",
+		"bio": "Jérémie’s training and studies in geophysics led him to France, Canada, the USA and Germany to study and work on various geophysical techniques. He spent a few years in Schlumberger where he learned about joint inversion and worked on the development and application of methodologies for integrated reservoir modelling (based in Milan, Italy). Jérémie then started his PhD in 2015 at the Centre for Exploration Targeting, University of Western Australia, which he completed in 2018. His project focused on the integration of geological modelling and petrophysical information in geophysical inversion and to estimate uncertainty. This is a research avenue that remains at the core of his research interest, and which he now furthers as part of the Loop and MinEx CRC consortia.In the Loop consortium, Jérémie is leading WP4: “Work Package 4 - Geophysical Integration”. In addition to other Loop work packages, he works closely with Dr. Vitaliy Ogarko around the development of the source-code of the inversion platform Tomofast. He also collaborates externally to work on case studies, on the application of deep learning techniques to integrated modelling, and on the recovery of geological quantities from inversion results. Jeremie is involved in the supervision of PhD students contributing to the advancement of WP4-related themes and the Loop platform: Mahtab Rashidifard (start Aug. 2019), Nuwan Suriyaarachchi (start Oct. 2019), and Marina Jeronimo Zarate (to start Apr. 2020). Last, Jeremie participates in the recruitment and supervision of interns and Honours students.",
+		"img": "./images/bios/giraud.jpg"
+	},
+	{
+		"name": "Guillaume Pirot",
+		"title": "Work Package 5 Co-Lead",
+		"bio": "I started my career as an Information Technology consultant for the retail industry. During 7 years, I maturated my passion for research. A friend dragged me to academia in the field of hydrogeology. Since then, I have been developing 3D geological stochastic models characterized by spatially complex heterogeneous property fields. Motivated by questions related to uncertainty and to  subsurface heterogeneity, I became an expert in multiple-point statistics, flow and transport modelling, hydro-geophysical data inversion, Bayesian inversion and optimization techniques. Now, as co-coordinator of work package 5 within the Loop project, I am focusing on uncertainty quantification, propagation and reduction. In a multi-disciplinary integrated modelling framework, uncertainty needs to be considered at every level, from data acquisition to prediction and via joint or hierarchical integration. In interaction with collaborators involved in other work packages and in co-supervising PhD students, I will develop new methods and ensure uncertainty consideration at all levels. ",
+		"img": "./images/bios/guillaume.jpg"
+	},
+	{
+		"name": "Mark Lindsay",
+		"title": "Work Package 5 Co-Lead",
+		"bio": "Mark Lindsay is a Senior Research Fellow at the Centre for Exploration Targeting, University of Western Australia (UWA) and specialises in integrated geoscientific and 3D modelling with an interest in understanding their interrelated uncertainties. He also has research interests that include investigating complex systems and mineralisation. Mark’s contribution to Work Package 5 is working towards a Value-of-Information framework that determines which data at what locations can help us reduce uncertainty in our models in the most cost efficient manner.",
+		"img": "./images/bios/lindsay.jpg"
+	},
+	{
+		"name": "Robin Armit",
+		"title": "Work Package 6 Lead",
+		"bio": "I hold a PhD in geology and am currently a lecturer in the School of Earth, Atmosphere and Environment at Monash University as well as a director at PGN Geoscience. I have developed academic and minerals industry-related expertise in the integration of structural geology, structural geophysics, 3D structural and inversion modelling, high-temperature geochemistry and radiogenic isotopic datasets utilising relational database skills, GIS and machine learning processes to inform on tectonics processes. My current research interests are in the role of ribbon tectonics in supercontinent assembly and breakup, and implications for minerals systems and have a strong publication record in this field. I am also engaged in research relating to innovations in structural modelling, geophysical inversion modelling and structural geophysics methods for interpreting geology undercover. I lead the training and knowledge transfer work package within the Loop3D project.",
+		"img": "./images/bios/armit.jpg"
+	},
+	{
+		"name": "Eric deKemp",
+		"title": "Senior Researcher",
+		"bio": "Dr. Eric de Kemp is a 3D Interpretation Specialist with the Geological Survey of Canada (GSC) in Ottawa, and an Adjunct Professor at the Department of Earth and Environmental Sciences at University of Ottawa. His research focuses on 3D visualization and modelling of bedrock geological structures. His expertise in 3D geological analysis is coupled with a strong background in the integration of geoscience data using Geographic Information Systems (GIS) and remote sensing technologies.  He specializes in Precambrian field-based 3D studies that combine  stratigraphic, structural, and geochronologic analysis in tectonically complex regions of the Canadian Shield. His current research focuses on optimization of methods for improving regional-scale 3D geological interpretations and  methods with the aim of developing sub-surface models for Canada-3D a national scale 3D geological and geophysical integration project.",
+		"img": "./images/bios/eric.jpg"
+	},
+	{
+		"name": "Vitaliy Ogarko",
+		"title": "Senior Researcher",
+		"bio": "Vitaliy is an applied mathematician who holds a PhD degree in Computational Physics. During his PhD study he was using hard-sphere simulations to study physical properties of non-equilibrium mixtures of fluids and granular materials. His other areas of expertise include design and development of high-performance computational algorithms in application to geophysical inversion, radioastronomy calibration, and computational geology. In June 2021, Vitaliy joined the Centre for Exploration Targeting to work on the MinEx project Recovery of stratigraphic data from drillhole databases. This project aims to recover stratigraphic information from legacy geological survey drillhole databases. Legacy and new drillhole data are a key constraints for geological understanding and subsequent building of 3D geological models. Company databases held by Australian Geological Surveys often contain complexly coded lithological information, but limited stratigraphic data.  This project will develop Open Source algorithms to automate the extraction of lithological and stratigraphic information with associated uncertainty quantification.",
+		"img": "./images/bios/vitaly.jpg"
+	}
+]
