@@ -1,0 +1,129 @@
+{
+  "biogs": [
+    {
+      "title": "Downloads",
+      "information": "<a href=https://github.com/Loop3D target=_blank>Loop @ github</a><br><br><a href=https://github.com/Loop3D/map2loop target=_blank> map2loop </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=https://github.com/Loop3D/LoopStructural target=_blank> LoopStructural</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=https://github.com/TOMOFAST target=_blank> Tomofast-x</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=https://github.com/Loop3D/GeoSwarm target=_blank>GeoSwarm agents</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=https://zenodo.org/records/4750707 target=_blank>Geoscience Ontology</a>",       
+      "sub_info": "" ,
+      "img": ""
+    },
+    {
+      "title": "3D geological modelling conference - Fremantle, Apr 2025Program and Abstracts volume",
+      "information": "Program and Abstracts volume <br>" ,
+      "sub_info": "<a href=./publications/3DGMC_program.pdf target=_blank>Click here to download the program</a><br><a href=./publications/3DGMC_abstracts.pdf target=_blank>Click here to download the abstracts volume</a><br><a href=./p3Dconference2025.html>Click here to see some of the presentation and posters</a> <br> " ,
+      "img": ""
+    },
+	{
+	"title": "2025 - <a href=https://doi.org/10.1016/j.jsg.2025.105420 target=_blank>OpenAccess</a> - Using 3D models to test geological hypotheses for sill complex geometries: Application to Jurassic dolerite intrusions, Tasmania",
+	"information": "Alvarado-Neves, F., Ailleres, L., Grose, L., Cruden, A.R., Armit, R.&nbsp; <a href=https://doi.org/10.1016/j.jsg.2025.105420 target=_blank>doi download</a>", 
+	"sub_info": "",
+	"img":""
+	},
+    {
+	"title": "2025 - <a href=https://doi.org/10.5194/gmd-18-71-2025 target=_blank>OpenAccess</a> - Checking the consistency of 3D geological models. Geosci. Model Dev., Special issue | The Loop 3D stochastic geological modelling platform – development and applications (Coord. Laurent Ailleres)",
+	"information": "Parquer, M.N., de Kemp, E.A., Brodaric, B., Hillier, M.J. &nbsp; <a href=https://doi.org/10.5194/gmd-18-71-2025 target=_blank>doi download</a> ",
+	"sub_info": "",
+    "img":""
+		},
+		{
+			"title": "2024 - <a href=./publications/Loop_QR_Jun2024.pdf target=_blank>OpenAccess</a> - Loop Research Group - Quarterly Report Sep 2024",
+			"information": "Ailleres, L., Grose, L., Cheng, N., Rodrigues, A., Ogarko, V., Jessell, M., Thomson, R., Chaarani, R., Pirot, G., Mamboukou, M., and our awesome entire Loop team &nbsp; <a href=./publications/Loop_QR_Sep2024.pdf target=_blank>download</a>",
+			"sub_info": ""
+		},
+		{
+			"title": "2024 - <a href=./publications/Loop_QR_Jun2024.pdf target=_blank>OpenAccess</a> - Loop Research Group - Quarterly Report June 2024",
+			"information": "Ailleres, L., Grose, L., Cheng, N., Rodrigues, A., Ogarko, V., Jessell, M., Thomson, R., Chaarani, R., Pirot, G., Mamboukou, M., and our awesome entire Loop team &nbsp; <a href=./publications/Loop_QR_Jun2024.pdf target=_blank>download</a>",
+			"sub_info": ""
+		},
+		{
+			"title": "2024 - <a href=./publications/Loop_QR_Mar2024.pdf target=_blank>OpenAccess</a> - Loop Research Group - Quarterly Report March 2024",
+			"information": "Ailleres, L., Grose, L., Cheng, N., Rodrigues, A., Ogarko, V., Jessell, M., Thomson, R., Chaarani, R., Pirot, G., Mamboukou, M., and our awesome entire Loop team &nbsp; <a href=./publications/Loop_QR_Mar2024.pdf target=_blank>download</a>",
+			"sub_info": ""
+		},
+				{
+			"title": "2024 - <a href=https://doi.org/10.5194/gmd-17-2325-2024 target=_blank>OpenAccess</a> - Tomofast-x 2.0: an open-source parallel code for inversion of potential field data with topography using wavelet compression. Geosci. Model Dev., Special issue | The Loop 3D stochastic geological modelling platform – development and applications (Coord. Laurent Ailleres)",
+			"information": "Ogarko, V., Frankcombe, K., Liu, T., Giraud, J., Martin, R., Jessell, M.&nbsp; <a href=https://doi.org/10.5194/gmd-17-1975-2024 target=_blank>doi download</a>",
+			"sub_info": ""
+		},
+		{
+			"title": "2024 - <a href=https://doi.org/10.5194/gmd-17-1975-2024 target=_blank>OpenAccess</a> - 3D geological modelling of igneous intrusions in LoopStructural v1.5.10 Geosci. Model Dev., Special issue | The Loop 3D stochastic geological modelling platform – development and applications (Coord. Laurent Ailleres)",
+			"information": "Alvarado-Neves, F., Ailleres, L., Grose, L., Cruden, A.R., Armit, R.&nbsp; <a href=https://doi.org/10.5194/gmd-17-1975-2024 target=_blank>doi download</a>",
+			"sub_info": ""
+		},
+		{
+			"title": "2021 - <a href=./publications/Loop_QR10_May2021.pdf target=_blank>OpenAccess</a> - Loop - Last Quarterly Report - LP17; May 2021",
+			"information": "Ailleres, L., Thomson, R., Brodaric, B., Jessell, M., Grose, L., Giraud, J., Pirot, G., Lindsay, M., Armit, R. and our awesome entire Loop team &nbsp; <a href=./publications/Loop_QR10_May2021.pdf target=_blank>download</a>",
+			"sub_info": ""
+		},
+		{
+			"title": "2021 - <a href=https://doi.org/10.5194/gmd-2021-187 target=_blank>OpenAccess</a> - Blockworlds 0.1.0: A demonstration of anti-aliased geophysics for probabilistic inversions of implicit and kinematic geological models. Geosci. Model Dev. Discuss., Special issue | The Loop 3D stochastic geological modelling platform – development and applications (Coord. Laurent Ailleres)",
+			"information": "Scalzo, R., Lindsay, M., Jessell, M., Pirot, G., Giraud, J., Cripps, E., Cripps, S. &nbsp; <a href=https://doi.org/10.5194/gmd-2021-187 target=_blank>doi download</a>",
+			"sub_info": ""
+		},
+		{
+			"title": "2021 - <a href=https://doi.org/10.1007/s11004-021-09945-x target=_blank>OpenAccess</a> - Three-Dimensional Structural Geological Modeling Using Graph Neural Networks. Math. Geosci.",
+			"information": "Hillier., M., Wellmann, F., Brodaric, B., de Kemp, E., Schetselaar, E. &nbsp; <a href=https://doi.org/10.1007/s11004-021-09945-x target=_blank>doi download</a>",
+			"sub_info": " "
+		},
+		{
+			"title": "2021 - <a href=https://doi.org/10.5194/se-2021-65 target=_blank>OpenAccess</a> - Constraining 3D geometric gravity inversion with 2D reflection seismic profile using a generalized level-set approach: application to Eastern Yilgarn craton. Solid Earth",
+			"information": "Rashidifard, M., Giraud, J., Lindsay, M., Jessell, M., Ogarko, V. &nbsp; <a href=https://doi.org/10.5194/se-2021-65 target=_blank>doi download</a>",
+			"sub_info": ""
+		},
+		{
+			"title": "2021 - <a href=https://doi.org/10.5194/gmd-2021-112 target=_blank>OpenAccess</a> - Realistic modelling of faults in LoopStructural 1.0. Geosci. Model Dev. Discuss., Special issue | The Loop 3D stochastic geological modelling platform – development and applications (Coord. Laurent Ailleres)",
+			"information": "Grose, L., Ailleres, L., Laurent, G., Caumon, G., Jessell, M., Armit, R. &nbsp; <a href=https://doi.org/10.5194/gmd-2021-112 target=_blank>doi download</a>",
+			"sub_info": ""
+		},
+		{
+			"title": "2021 - <a href=https://doi.org/10.4095/328296 target=_blank>OpenAccess</a> - The GeoScience Ontology reference. Geological Survey of Canada, Open File 8796, 34p",
+			"information": "Brodaric, B., Richard, S. - <a href= http://doi.org/10.5281/zenodo.4750707 target=_blank>sub_info to complementary dataset</a>",
+			"sub_info": "<a href=https://doi.org/10.4095/328296 target=_blank>download</a>"
+		},
+		{
+			"title": "2021 - <a href=https://doi.org/10.4095/328296 target=_blank>OpenAccess</a> - Spatial Agents for Geological Surface Modelling. Geosci. Model Dev. Discuss., Special issue | The Loop 3D stochastic geological modelling platform – development and applications (Coord. Laurent Ailleres)",
+			"information": "de Kemp, E.Q. &nbsp; <a href=https://doi.org/10.5194/gmd-2021-66 target=_blank>doi download</a>",
+			"sub_info": ""
+		},
+		{
+			"title": "2021 - <a href=https://doi.org/10.5194/gmd-2021-14 target=_blank>OpenAccess</a> - Structural, petrophysical and geological constraints in potential field inversion using the Tomofast-x v1.0 open-source code. Geosci. Model Dev. Discuss., Special issue | The Loop 3D stochastic geological modelling platform – development and applications (Coord. Laurent Ailleres)",
+			"information": "Giraud, J., Ogarko, V., Martin, R., Jessell, M., Lindsay, M. &nbsp; <a href=https://doi.org/10.5194/gmd-2021-14 target=_blank>doi download</a>",
+			"sub_info": ""
+		},
+		{
+			"title": "2021 - 3D Geological Structure Inversion from Noddy-Generated Magnetic Data Using Deep Learning Methods. Computers & Geosciences (149)",
+			"information": "Guo, J., Li, Y., Jessell, M.,  Giraud, J., Li, C., Wu, L., Li, F., Liu, S. &nbsp; <a href=https://doi.org/10.1016/j.cageo.2021.104701 target=_blank>doi download</a>",
+			"sub_info": ""
+		},
+		{
+			"title": "2021 - <a href=https://doi.org/10.5194/gmd-2020-400 target=_blank>OpenAccess</a> - Automated geological map deconstruction for 3D model construction. Geosci. Model Dev. Discuss., Special issue | The Loop 3D stochastic geological modelling platform – development and applications (Coord. Laurent Ailleres)",
+			"information": "Jessell, M., Ogarko, V., Lindsay, M., Joshi, R., Piechocka, A., Grose, L., de la Varga, M., Ailleres, L., Pirot, G. &nbsp; <a href=https://doi.org/10.5194/gmd-2020-400 target=_blank>doi download</a>",
+			"sub_info": ""
+		},
+		{
+			"title": "2021 - <a href=https://doi.org/10.5194/gmd-2020-391 target=_blank>OpenAccess</a> - dh2loop 1.0: an open-source python library for automated processing and classification of geological logs. Geosci. Model Dev. Discuss., Special issue | The Loop 3D stochastic geological modelling platform – development and applications (Coord. Laurent Ailleres)",
+			"information": "Joshi, R., Madaiah, K., Jessell, M., Lindsay, M., Pirot, G.Joshi, R., Madaiah, K., Jessell, M., Lindsay, M., Pirot, G. &nbsp; <a href=https://doi.org/10.5194/gmd-2020-391 target=_blank>doi download</a>",
+			"sub_info": ""
+		},
+		{
+			"title": "2021 - <a href=https://doi.org/10.1190/geo2019-0633.1 target=_blank>OpenAccess</a> - Disjoint intervals bound constraints using the alternating direction method of multipliers (ADMM) for geologically constrained inversions: application to gravity data. Geophysics, 86: G1-G11",
+			"information": "Ogarko, V., Giraud, J., Martin, R., Jessell, M.  &nbsp; <a href=https://doi.org/10.1190/geo2019-0633.1 target=_blank>doi download</a> ",
+			"sub_info": ""
+		},
+		{
+			"title": "2020 - <a href=https://doi.org/10.5194/gmd-2020-336 target=_blank>OpenAccess</a> - LoopStructural 1.0 time aware geological modelling. Geosci. Model Dev. Discuss., Special issue | The Loop 3D stochastic geological modelling platform – development and applications (Coord. Laurent Ailleres)",
+			"information": "Grose, L., Ailleres, L., Laurent, G., Jessell, M. &nbsp; <a href=https://doi.org/10.5194/gmd-2020-336 target=_blank>doi download</a> ",
+			"sub_info": ""
+		},
+		{
+			"title": "2020 - <a href=https://doi.org/10.5194/se-11-419-2020 target=_blank>OpenAccess</a> - Towards plausible lithological classification from geophysical inversion: honouring geological principles in subsurface imaging, Solid Earth, 11, 419-436",
+			"information": "Giraud, J., Lindsay, M.,  Jessell,M., Ogarko, V.&nbsp; <a href=https://doi.org/10.5194/se-11-419-2020 target=_blank>doi download</a>",
+			"sub_info": ""
+		},
+		{
+			"title": "2020 - <a href=https://doi.org/10.1093/gji/ggaa414 target=_blank>OpenAccess</a> - Three-dimensional gravity anomaly inversion in the Pyrenees using compressional seismic velocity model as structural similarity constraints. Geophysical Journal International, ggaa414",
+			"information": "Martin, R., Giraud, J., Ogarko, V., Beller, S., Gegout, P., Jessell, M. &nbsp; <a href=https://doi.org/10.1093/gji/ggaa414 target=_blank>doi download</a>",
+			"sub_info": ""
+		}
+  ]
+}
+      

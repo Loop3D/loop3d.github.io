@@ -1,0 +1,47 @@
+{
+  "biogs": [
+    {
+      "title": "Loop Workshop",
+      "information": "" ,
+      "sub_info": "<a href=./publications/3DGMC/wk1_ailleres.pdf target=_blank> Introduction - vision and achievements</a> [Laurent Ailleres] <br> <a href=./publications/3DGMC/wk1_grose.pdf target=_blank>Introduction to 3D geological modelling using LoopStructural</a> [Lachlan Grose]<br><a href=./publications/3DGMC/wk1_chaarani.pdf target=_blank>Preparing a Loop ready dataset</a> [Rabii Chaarani]<br><a href=./publications/3DGMC/wk1_grose2.pdf target=_blank>Resource modelling and advanced Loop use using Loop</a> [Lachlan Grose]<br><a href=./publications/3DGMC/wk1_edwards.pdf target=_blank>Loop 3D - Tips and tricks</a> [Ayla Edwards]",
+      "img": ""
+    },
+    {
+      "title": "LoopStructural workshop posters",
+      "information": "" ,
+      "sub_info": "<a href=./publications/3DGMC/LS_poster1.pdf target=_blank> Loop: achievements, vision and a foundation</a> [Loop research team] <br> <a href=./publications/3DGMC/LS_poster2.pdf target=_blank>LoopStructural: 3D Geological Modeling for Structural Geologists</a> [Lachlan Grose and the Loop research team]<br><a href=./publications/3DGMC/LS_poster3.pdf target=_blank>Testing Loop in the Cobar Basin, a Work in Progress</a> [Ayla Edwards]<br><a href=./publications/3DGMC/LS_poster4.pdf target=_blank>LoopStructural and LoopResources applied to gold estimation</a> [Axel Mengelle Nicole]<br><a href=./publications/3DGMC/LS_poster5.pdf target=_blank>Preparing a Loop-Ready dataset - Example of the NTGS dataset</a> [Rabii Chaarani]",
+      "img": ""
+    },
+    {
+      "title": "Conference Posters",
+      "information": "" ,
+      "sub_info": "Some posters cannot be published on this page<br>P1 - <a href=./publications/3DGMC/P1_Antunes.pdf target=_blank>Preliminary magnetic and gravity inversions for the Yaouré Greenstone Belt, Ivory Coast, West Africa</a> [Vinicius Antunes] <br>P2 - <a href=./publications/3DGMC/P1_Bruce.pdf target=_blank>Wavelet compression in the context of gravity inversion</a> [Elizabeth Bruce]<br>P5 - <a href=./publications/3DGMC/wk2_p_pirot.pdf target=_blank>Stochastic modelling of the Lower Burdekin Delta aquifer</a> [Guillaume Pirot]",
+      "img": ""
+    },
+    {
+      "title": "Conference Presentations",
+      "information": "" ,
+      "sub_info": "Some presentations cannot be published on this page<br>02 - <a href=./publications/3DGMC/02_Calvert.pdf target=_blank>3-D Seismic Reflector Orientations from 2-D Profiles across the Kalgoorlie Greenstone Belt</a> [Andrew Calvert] <br> 04 - <a href=https://drive.google.com/file/d/1J8XVQ7KSnmP-vJvfFeeiAWLEfzeVEfdE/view?usp=sharing target=_blank>AI driven approaches to scalable 3D geological modelling: methods, applications and challenges</a> [Michael Hillier]<br>07 - <a href=./publications/3DGMC/07_Bardot.pdf target=_blank>LoopFlopy: a workflow to bridge geological and groundwater flow models</a> [Kerry Bardot]<br> 13 - <a href=./publications/3DGMC/13_Thompson.pdf target=_blank>Geochemical mapping of dolerite dykes: challenges and solutions in automated block modelling</a> [Kieran Thompson]<br>14 - <a href=./publications/3DGMC/14_Laouici.pdf target=_blank>A knowledge-driven structural modeling formalism: fresh perspective</a> [Imadeddine Laouici]<br>21 - <a href=./publications/3DGMC/21_Gillfeather-Clark.pdf target=_blank>Discovering Open File 3D Geoscience Models: A Survey of the WAMEX Database</a> [Tasman Gillfeather-Clark]<br>22 - <a href=./publications/3DGMC/22_ailleres.pdf target=_blank>The Loop project - overview</a> [Laurent Ailleres]",
+      "img": ""
+    },
+    {
+      "title": "Geophysical inversions and uncertainty workshop posters",
+      "information": "" ,
+      "sub_info": "",
+      "img": ""
+    },
+    {
+      "title": "Organising & Scientific committee",
+      "information": "<table><tr><td>Laurent Ailleres, Lachlan Grose, Angela Rodrigues<p>Monash University</p></td><td width=30></td><td>Mark Jessell, Corinne Debat, Guillaume Pirot<p>University of Western Australia</p></td><td width=30></td><td>Marie-Aude Bonnardot <p>Geoscience Australia</p></td></tr><tr><td>Carina Kemp <p>Amazon Web Services</p></td><td width=30></td><td>Ruth Murdie<p>Geological Survey of Western Australia</p></td><td width=30></td><td>Helen McFarlane<p>CSIRO</p></td></tr><tr><td>James Taylor<p>BHP</p></td><td></td><td>Rabii Chaarani<p>Nothern Territory Geological Survey & Monash University</td></tr></table>",
+      "sub_info": "",
+      "img": ""
+    },
+    {
+      "title": "Partner organisations",
+      "information": "Loop is joint initiative supported by the ARC Linkage program and the MinEx CRC. We gratefully thank the below organisations for their continued trust, support and contributions to R&D" ,
+      "sub_info": "",
+      "img": "images/loop-partners.png"
+    }
+  ]
+}
+      
